@@ -103,7 +103,7 @@
 					<SimpleData name="N_KEN"></SimpleData>
 					<SimpleData name="N_CITY"></SimpleData>
 					<SimpleData name="KIGO_I"></SimpleData>
-					<SimpleData name="MOJI"></SimpleData>
+					<SimpleData name="MOJI">ISSE</SimpleData>
 					<SimpleData name="KBSUM">0</SimpleData>
 					<SimpleData name="JINKO">0</SimpleData>
 					<SimpleData name="SETAI">0</SimpleData>
