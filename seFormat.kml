@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>jSTAT MAP</name>
+	<open>1</open>
+	<Style id="AddressShape1036">
+		<LineStyle>
+			<color>ff8080ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+		</PolyStyle>
+	</Style>
+     <Schema id="AddressAttr1036">
+        <SimpleField type="string" name="KEY_CODE"></SimpleField>
+        <SimpleField type="string" name="PREF"></SimpleField>
+        <SimpleField type="string" name="CITY"></SimpleField>
+        <SimpleField type="string" name="S_AREA"></SimpleField>
+        <SimpleField type="string" name="PREF_NAME"></SimpleField>
+        <SimpleField type="string" name="CITY_NAME"></SimpleField>
+        <SimpleField type="string" name="S_NAME"></SimpleField>
+        <SimpleField type="string" name="KIGO_E"></SimpleField>
+        <SimpleField type="double" name="HCODE"></SimpleField>
+        <SimpleField type="double" name="AREA"></SimpleField>
+        <SimpleField type="double" name="PERIMETER"></SimpleField>
+        <SimpleField type="double" name="H27KAxx_"></SimpleField>
+        <SimpleField type="double" name="H27KAxx_ID"></SimpleField>
+        <SimpleField type="string" name="KEN"></SimpleField>
+        <SimpleField type="string" name="KEN_NAME"></SimpleField>
+        <SimpleField type="string" name="SITYO_NAME"></SimpleField>
+        <SimpleField type="string" name="GST_NAME"></SimpleField>
+        <SimpleField type="string" name="CSS_NAME"></SimpleField>
+        <SimpleField type="string" name="KIHON1"></SimpleField>
+        <SimpleField type="string" name="DUMMY1"></SimpleField>
+        <SimpleField type="string" name="KIHON2"></SimpleField>
+        <SimpleField type="string" name="KEYCODE1"></SimpleField>
+        <SimpleField type="string" name="KEYCODE2"></SimpleField>
+        <SimpleField type="string" name="AREA_MAX_F"></SimpleField>
+        <SimpleField type="string" name="KIGO_D"></SimpleField>
+        <SimpleField type="string" name="N_KEN"></SimpleField>
+        <SimpleField type="string" name="N_CITY"></SimpleField>
+        <SimpleField type="string" name="KIGO_I"></SimpleField>
+        <SimpleField type="string" name="MOJI"></SimpleField>
+        <SimpleField type="double" name="KBSUM"></SimpleField>
+        <SimpleField type="double" name="JINKO"></SimpleField>
+        <SimpleField type="double" name="SETAI"></SimpleField>
+        <SimpleField type="double" name="X_CODE"></SimpleField>
+        <SimpleField type="double" name="Y_CODE"></SimpleField>
+        <SimpleField type="string" name="KCODE1"></SimpleField>
+    </Schema>
+	
+	<Folder id="0EDD1D8848319E2537D6">
+		<name>h27ka27</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>135.2866152778</longitude>
+			<latitude>34.3981052778</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+		</LookAt>
+    </Folder>
+</Document>
+</kml>
