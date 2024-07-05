@@ -81,7 +81,7 @@
 					<SimpleData name="S_AREA">000000</SimpleData>
 					<SimpleData name="PREF_NAME">大阪府</SimpleData>
 					<SimpleData name="CITY_NAME">田尻町</SimpleData>
-					<SimpleData name="S_NAME"></SimpleData>
+					<SimpleData name="S_NAME">ISSE</SimpleData>
 					<SimpleData name="KIGO_E"></SimpleData>
 					<SimpleData name="HCODE">8101</SimpleData>
 					<SimpleData name="AREA">75144.542</SimpleData>
