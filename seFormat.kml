@@ -63,6 +63,7 @@
 		</LookAt>
     </Folder>
 	<Placemark id="08927AA9FB319E260977">
+			<name>ISSE</name>
 			<LookAt>
 				<longitude>135.2866152778</longitude>
 				<latitude>34.3981052778</latitude>
