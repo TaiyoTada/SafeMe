@@ -1,0 +1,3290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>jSTAT MAP</name>
+	<open>1</open>
+	<Style id="AddressShape1036">
+		<LineStyle>
+			<color>ff8080ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+		</PolyStyle>
+	</Style>
+     <Schema id="AddressAttr1036">
+        <SimpleField type="string" name="KEY_CODE"></SimpleField>
+        <SimpleField type="string" name="PREF"></SimpleField>
+        <SimpleField type="string" name="CITY"></SimpleField>
+        <SimpleField type="string" name="S_AREA"></SimpleField>
+        <SimpleField type="string" name="PREF_NAME"></SimpleField>
+        <SimpleField type="string" name="CITY_NAME"></SimpleField>
+        <SimpleField type="string" name="S_NAME"></SimpleField>
+        <SimpleField type="string" name="KIGO_E"></SimpleField>
+        <SimpleField type="double" name="HCODE"></SimpleField>
+        <SimpleField type="double" name="AREA"></SimpleField>
+        <SimpleField type="double" name="PERIMETER"></SimpleField>
+        <SimpleField type="double" name="H27KAxx_"></SimpleField>
+        <SimpleField type="double" name="H27KAxx_ID"></SimpleField>
+        <SimpleField type="string" name="KEN"></SimpleField>
+        <SimpleField type="string" name="KEN_NAME"></SimpleField>
+        <SimpleField type="string" name="SITYO_NAME"></SimpleField>
+        <SimpleField type="string" name="GST_NAME"></SimpleField>
+        <SimpleField type="string" name="CSS_NAME"></SimpleField>
+        <SimpleField type="string" name="KIHON1"></SimpleField>
+        <SimpleField type="string" name="DUMMY1"></SimpleField>
+        <SimpleField type="string" name="KIHON2"></SimpleField>
+        <SimpleField type="string" name="KEYCODE1"></SimpleField>
+        <SimpleField type="string" name="KEYCODE2"></SimpleField>
+        <SimpleField type="string" name="AREA_MAX_F"></SimpleField>
+        <SimpleField type="string" name="KIGO_D"></SimpleField>
+        <SimpleField type="string" name="N_KEN"></SimpleField>
+        <SimpleField type="string" name="N_CITY"></SimpleField>
+        <SimpleField type="string" name="KIGO_I"></SimpleField>
+        <SimpleField type="string" name="MOJI"></SimpleField>
+        <SimpleField type="double" name="KBSUM"></SimpleField>
+        <SimpleField type="double" name="JINKO"></SimpleField>
+        <SimpleField type="double" name="SETAI"></SimpleField>
+        <SimpleField type="double" name="X_CODE"></SimpleField>
+        <SimpleField type="double" name="Y_CODE"></SimpleField>
+        <SimpleField type="string" name="KCODE1"></SimpleField>
+    </Schema>
+	
+	<Folder id="0EDD1D8848319E2537D6">
+		<name>h27ka27</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>135.2866152778</longitude>
+			<latitude>34.3981052778</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+		</LookAt>
+      <Placemark id="5FD78BDC2F319E262C3A">
+			<name>本庄東１丁目</name>
+			<LookAt>
+				<longitude>135.5086883333</longitude>
+				<latitude>34.7117125</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27127048001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">048001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">本庄東１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">72248.453</SimpleData>
+					<SimpleData name="PERIMETER">1110.165</SimpleData>
+					<SimpleData name="H27KAxx_">6275</SimpleData>
+					<SimpleData name="H27KAxx_ID">6274</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0480</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">127048001</SimpleData>
+					<SimpleData name="KEYCODE2">127048001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">本庄東１丁目</SimpleData>
+					<SimpleData name="KBSUM">44</SimpleData>
+					<SimpleData name="JINKO">2183</SimpleData>
+					<SimpleData name="SETAI">1358</SimpleData>
+					<SimpleData name="X_CODE">135.50869</SimpleData>
+					<SimpleData name="Y_CODE">34.71147</SimpleData>
+					<SimpleData name="KCODE1">0480-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5073512116,34.7103419845,100 135.5077807214,34.7104217618,100 135.507787196,34.710422915,100 135.5078044773,34.7104212947,100 135.5084371881,34.7105375314,100 135.5092565573,34.7106818457,100 135.5105039437,34.7109080265,100 135.5106316388,34.7109122026,100 135.5106221063,34.7113220638,100 135.5106130156,34.7117719293,100 135.5106116484,34.7118378456,100 135.5106100905,34.711913903,100 135.510602277,34.7122995426,100 135.5106026268,34.7126387314,100 135.5106027895,34.7126761999,100 135.5097471977,34.7125813322,100 135.5097416552,34.7125807464,100 135.5088980827,34.7124873264,100 135.5088495145,34.7124937504,100 135.5088040184,34.71249258,100 135.5084871143,34.7124432643,100 135.5084657253,34.7124399376,100 135.5082848202,34.7124117371,100 135.5082485625,34.7124060965,100 135.5079077563,34.7123530206,100 135.507768008,34.7123313246,100 135.5075431768,34.7122963252,100 135.5073410518,34.7122649388,100 135.507206673,34.7122439681,100 135.5071782133,34.7122394857,100 135.5067679276,34.7121740103,100 135.50676266,34.7117105674,100 135.5067619967,34.7116280216,100 135.5067594705,34.7112992488,100 135.5067722125,34.7110925207,100 135.5068050366,34.7108934801,100 135.5068578707,34.7106577281,100 135.5069455132,34.7102666684,100 135.5073512116,34.7103419845,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="6E667DFB02319E262C3A">
+			<name>本庄東２丁目</name>
+			<LookAt>
+				<longitude>135.5085694444</longitude>
+				<latitude>34.713845</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27127048002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">048002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">本庄東２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">99622.897</SimpleData>
+					<SimpleData name="PERIMETER">1262.589</SimpleData>
+					<SimpleData name="H27KAxx_">2690</SimpleData>
+					<SimpleData name="H27KAxx_ID">2689</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0480</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">127048002</SimpleData>
+					<SimpleData name="KEYCODE2">127048002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">本庄東２丁目</SimpleData>
+					<SimpleData name="KBSUM">44</SimpleData>
+					<SimpleData name="JINKO">3275</SimpleData>
+					<SimpleData name="SETAI">2046</SimpleData>
+					<SimpleData name="X_CODE">135.50858</SimpleData>
+					<SimpleData name="Y_CODE">34.71369</SimpleData>
+					<SimpleData name="KCODE1">0480-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5097471977,34.7125813322,100 135.5106027895,34.7126761999,100 135.5106031699,34.7127695945,100 135.5106032442,34.7127877617,100 135.5105920991,34.7132608608,100 135.5105901204,34.7133360708,100 135.510577396,34.7138240948,100 135.5105769151,34.7138529236,100 135.5105749697,34.7139684648,100 135.5105640582,34.7143369065,100 135.5105620821,34.7144118352,100 135.510559217,34.7145216933,100 135.5105569059,34.7146101431,100 135.5105502354,34.7148666192,100 135.5099683049,34.7148839897,100 135.5089469516,34.7149146499,100 135.508380716,34.7149315119,100 135.5074091488,34.7149588385,100 135.5073945282,34.7149575116,100 135.5072918065,34.7149482199,100 135.5068811065,34.7148641487,100 135.5065114669,34.7147885541,100 135.5065247417,34.7145063295,100 135.506526648,34.7144649246,100 135.5065351404,34.7142845208,100 135.5065477641,34.7140761028,100 135.5065499864,34.7140392067,100 135.506564222,34.7138034693,100 135.5065650731,34.713789387,100 135.5065786488,34.7135642106,100 135.5065811496,34.7135237944,100 135.506601081,34.7134061185,100 135.5066210408,34.7132621021,100 135.5066488002,34.7130685363,100 135.5066530813,34.7130370016,100 135.5067681504,34.7121938719,100 135.5067679276,34.7121740103,100 135.5071782133,34.7122394857,100 135.507206673,34.7122439681,100 135.5073410518,34.7122649388,100 135.5075431768,34.7122963252,100 135.507768008,34.7123313246,100 135.5079077563,34.7123530206,100 135.5082485625,34.7124060965,100 135.5082848202,34.7124117371,100 135.5084657253,34.7124399376,100 135.5084871143,34.7124432643,100 135.5088040184,34.71249258,100 135.5088495145,34.7124937504,100 135.5088980827,34.7124873264,100 135.5097416552,34.7125807464,100 135.5097471977,34.7125813322,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="7C64026B8F319E262C3A">
+			<name>本庄東３丁目</name>
+			<LookAt>
+				<longitude>135.5087102778</longitude>
+				<latitude>34.7179936111</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27127048003</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">048003</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">本庄東３丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">219428.697</SimpleData>
+					<SimpleData name="PERIMETER">1911.974</SimpleData>
+					<SimpleData name="H27KAxx_">8810</SimpleData>
+					<SimpleData name="H27KAxx_ID">8809</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0480</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">03</SimpleData>
+					<SimpleData name="KEYCODE1">127048003</SimpleData>
+					<SimpleData name="KEYCODE2">127048003</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">本庄東３丁目</SimpleData>
+					<SimpleData name="KBSUM">27</SimpleData>
+					<SimpleData name="JINKO">2278</SimpleData>
+					<SimpleData name="SETAI">1307</SimpleData>
+					<SimpleData name="X_CODE">135.50861</SimpleData>
+					<SimpleData name="Y_CODE">34.71736</SimpleData>
+					<SimpleData name="KCODE1">0480-03</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5105519391,34.7149466337,100 135.5105650778,34.7155691404,100 135.510565516,34.7155816783,100 135.5105765548,34.7159016127,100 135.5105906123,34.7163100173,100 135.5105862152,34.7169047043,100 135.5106246272,34.7170013473,100 135.510630207,34.717017146,100 135.5108746057,34.7177080584,100 135.5109713009,34.7179814323,100 135.5103022068,34.7201303366,100 135.5095881712,34.7201094142,100 135.5083996089,34.720074732,100 135.5074434046,34.7200467586,100 135.5070976412,34.7200405627,100 135.5063908465,34.7200278226,100 135.5065016427,34.716414715,100 135.5065300234,34.7164187746,100 135.5065269928,34.7158801228,100 135.5065221032,34.7155471155,100 135.5065207964,34.7154797798,100 135.5065148552,34.7151731088,100 135.5065126956,34.7148760315,100 135.5065114669,34.7147885541,100 135.5068811065,34.7148641487,100 135.5072918065,34.7149482199,100 135.5073945282,34.7149575116,100 135.5074091488,34.7149588385,100 135.508380716,34.7149315119,100 135.5089469516,34.7149146499,100 135.5099683049,34.7148839897,100 135.5105502354,34.7148666192,100 135.5105519391,34.7149466337,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="0930A1D0AE319E262C3B">
+			<name>松ケ枝町</name>
+			<LookAt>
+				<longitude>135.5163797222</longitude>
+				<latitude>34.6991061111</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">271270490</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">049000</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">松ケ枝町</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">49619.323</SimpleData>
+					<SimpleData name="PERIMETER">944.253</SimpleData>
+					<SimpleData name="H27KAxx_">7217</SimpleData>
+					<SimpleData name="H27KAxx_ID">7216</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0490</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">00</SimpleData>
+					<SimpleData name="KEYCODE1">127049000</SimpleData>
+					<SimpleData name="KEYCODE2">1270490</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">松ケ枝町</SimpleData>
+					<SimpleData name="KBSUM">13</SimpleData>
+					<SimpleData name="JINKO">759</SimpleData>
+					<SimpleData name="SETAI">532</SimpleData>
+					<SimpleData name="X_CODE">135.51637</SimpleData>
+					<SimpleData name="Y_CODE">34.69894</SimpleData>
+					<SimpleData name="KCODE1">0490-00</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5163900567,34.6982445123,100 135.5166848791,34.6982245713,100 135.516771693,34.6982186997,100 135.5173123885,34.6981819651,100 135.5176630569,34.69815828,100 135.5178428458,34.6981460197,100 135.5178719393,34.6981440352,100 135.5180130396,34.6981351554,100 135.5180706179,34.6987871385,100 135.518092023,34.6990299227,100 135.5181065107,34.6991937994,100 135.5181424425,34.6995862339,100 135.5178624369,34.6995999173,100 135.5177786276,34.6996039517,100 135.5172852814,34.6996280581,100 135.516981822,34.6996429277,100 135.5165352596,34.6996648068,100 135.5165274112,34.6996651985,100 135.5159239832,34.6996946367,100 135.5156727239,34.6997068796,100 135.5147195535,34.6997535148,100 135.5146894999,34.6994237347,100 135.5146787167,34.6993054208,100 135.5146378006,34.698856763,100 135.5146161444,34.6986193125,100 135.5145930364,34.6983659737,100 135.5146104827,34.6983646341,100 135.5149524212,34.6983390911,100 135.5155596441,34.6983009387,100 135.5163900567,34.6982445123,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="16C310DC39319E262C3B">
+			<name>万歳町</name>
+			<LookAt>
+				<longitude>135.5045402778</longitude>
+				<latitude>34.7056622222</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">271270500</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">050000</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">万歳町</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">30515.797</SimpleData>
+					<SimpleData name="PERIMETER">848.710</SimpleData>
+					<SimpleData name="H27KAxx_">8230</SimpleData>
+					<SimpleData name="H27KAxx_ID">8229</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0500</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">00</SimpleData>
+					<SimpleData name="KEYCODE1">127050000</SimpleData>
+					<SimpleData name="KEYCODE2">1270500</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">万歳町</SimpleData>
+					<SimpleData name="KBSUM">15</SimpleData>
+					<SimpleData name="JINKO">1056</SimpleData>
+					<SimpleData name="SETAI">655</SimpleData>
+					<SimpleData name="X_CODE">135.50428</SimpleData>
+					<SimpleData name="Y_CODE">34.7052</SimpleData>
+					<SimpleData name="KCODE1">0500-00</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5039226226,34.7047300464,100 135.5041669264,34.7046207511,100 135.5045527753,34.7043938528,100 135.5045883286,34.7044025898,100 135.5046311666,34.704341069,100 135.5046674544,34.7043485415,100 135.5053932788,34.7045012281,100 135.5054018324,34.7045042216,100 135.5053492494,34.7049139046,100 135.5052747058,34.7054950638,100 135.5052451487,34.7057256696,100 135.5052042318,34.7060446871,100 135.5053396076,34.7061620094,100 135.5052876476,34.7063515341,100 135.5052712576,34.7064113489,100 135.5052352104,34.7065428876,100 135.5051146327,34.7065188731,100 135.5047331563,34.7064182963,100 135.5046580968,34.7063985515,100 135.5044994337,34.7062826832,100 135.5043818283,34.7061606429,100 135.504333817,34.7060597334,100 135.5039110644,34.7057306544,100 135.5037711123,34.705616552,100 135.5028771285,34.7049028336,100 135.5025351657,34.7047566329,100 135.5026206627,34.7046779617,100 135.5029482147,34.7048380484,100 135.5029719437,34.7048491319,100 135.5034180275,34.7048115148,100 135.5035743128,34.704817929,100 135.5037209285,34.7048014831,100 135.5039226226,34.7047300464,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="24AD4BAE56319E262C3B">
+			<name>南扇町</name>
+			<LookAt>
+				<longitude>135.5087136111</longitude>
+				<latitude>34.7014397222</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">271270510</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">051000</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">南扇町</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">37240.927</SimpleData>
+					<SimpleData name="PERIMETER">1199.226</SimpleData>
+					<SimpleData name="H27KAxx_">428</SimpleData>
+					<SimpleData name="H27KAxx_ID">427</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0510</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">00</SimpleData>
+					<SimpleData name="KEYCODE1">127051000</SimpleData>
+					<SimpleData name="KEYCODE2">1270510</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">南扇町</SimpleData>
+					<SimpleData name="KBSUM">8</SimpleData>
+					<SimpleData name="JINKO">353</SimpleData>
+					<SimpleData name="SETAI">255</SimpleData>
+					<SimpleData name="X_CODE">135.50871</SimpleData>
+					<SimpleData name="Y_CODE">34.70122</SimpleData>
+					<SimpleData name="KCODE1">0510-00</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5091486742,34.6999760129,100 135.5091347863,34.7003424705,100 135.5091340303,34.7003621877,100 135.5091282086,34.7004817529,100 135.5091176797,34.7006979286,100 135.5090985121,34.7010918334,100 135.5091028286,34.7011263609,100 135.5091250927,34.7013059041,100 135.5091448676,34.7015388229,100 135.5091556717,34.7018252327,100 135.5091562105,34.7018421379,100 135.5091526929,34.7024382371,100 135.5081624982,34.7023953598,100 135.5076789227,34.7023867826,100 135.507642815,34.7023855096,100 135.5062970065,34.7023417404,100 135.5063848518,34.7015787855,100 135.5073566562,34.7016652688,100 135.5075520151,34.7016826808,100 135.5077215895,34.7016977352,100 135.5082721665,34.7017465858,100 135.5083137025,34.7010533079,100 135.5083578805,34.7003167959,100 135.507722033,34.7004052197,100 135.5077676893,34.700162001,100 135.5077048186,34.699942148,100 135.5077277121,34.6999426634,100 135.5080578308,34.6999486468,100 135.5083691927,34.69995399,100 135.5083743939,34.6999540111,100 135.5087369548,34.6999539259,100 135.5089076388,34.6999539109,100 135.5091495295,34.6999539009,100 135.5091486742,34.6999760129,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="33D68BA21E319E262C3B">
+			<name>南森町１丁目</name>
+			<LookAt>
+				<longitude>135.5101019444</longitude>
+				<latitude>34.6968111111</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27127052001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">052001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">南森町１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">34618.951</SimpleData>
+					<SimpleData name="PERIMETER">760.638</SimpleData>
+					<SimpleData name="H27KAxx_">5287</SimpleData>
+					<SimpleData name="H27KAxx_ID">5286</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0520</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">127052001</SimpleData>
+					<SimpleData name="KEYCODE2">127052001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">南森町１丁目</SimpleData>
+					<SimpleData name="KBSUM">9</SimpleData>
+					<SimpleData name="JINKO">307</SimpleData>
+					<SimpleData name="SETAI">208</SimpleData>
+					<SimpleData name="X_CODE">135.5101</SimpleData>
+					<SimpleData name="Y_CODE">34.69696</SimpleData>
+					<SimpleData name="KCODE1">0520-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5109457248,34.6964038793,100 135.5109249286,34.6975334834,100 135.5106256531,34.697555036,100 135.5105951548,34.6975572331,100 135.5103080123,34.6975749544,100 135.5102990534,34.6975756225,100 135.5099664392,34.6975964004,100 135.5092250304,34.6976577877,100 135.5092285788,34.697583992,100 135.5092859386,34.6963965028,100 135.5092873945,34.6963663645,100 135.5093125487,34.6958462749,100 135.5093238688,34.6956112275,100 135.5093262928,34.695561655,100 135.5098677278,34.6955490442,100 135.5102959983,34.6955448496,100 135.5103155241,34.6955450687,100 135.510506317,34.6955463983,100 135.5109686628,34.6955407885,100 135.5109457248,34.6964038793,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="464237350A319E262C3B">
+			<name>南森町２丁目</name>
+			<LookAt>
+				<longitude>135.5100297222</longitude>
+				<latitude>34.6989988889</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27127052002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">052002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">南森町２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">40753.889</SimpleData>
+					<SimpleData name="PERIMETER">834.324</SimpleData>
+					<SimpleData name="H27KAxx_">3306</SimpleData>
+					<SimpleData name="H27KAxx_ID">3305</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0520</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">127052002</SimpleData>
+					<SimpleData name="KEYCODE2">127052002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">南森町２丁目</SimpleData>
+					<SimpleData name="KBSUM">10</SimpleData>
+					<SimpleData name="JINKO">724</SimpleData>
+					<SimpleData name="SETAI">481</SimpleData>
+					<SimpleData name="X_CODE">135.51002</SimpleData>
+					<SimpleData name="Y_CODE">34.69913</SimpleData>
+					<SimpleData name="KCODE1">0520-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5108938009,34.6986289584,100 135.5108230658,34.6999409144,100 135.5102939319,34.6999671016,100 135.5101930004,34.6999687695,100 135.5101431001,34.6999695939,100 135.5091486742,34.6999760129,100 135.5091495295,34.6999539009,100 135.5091659375,34.6995218128,100 135.5091960234,34.6987298868,100 135.5091968822,34.6987067894,100 135.5092046262,34.6983124164,100 135.5092250304,34.6976577877,100 135.5099664392,34.6975964004,100 135.5102990534,34.6975756225,100 135.5103080123,34.6975749544,100 135.5105951548,34.6975572331,100 135.5106256531,34.697555036,100 135.5109249286,34.6975334834,100 135.5108938009,34.6986289584,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="508FF7BB0B319E262C3B">
+			<name>山崎町</name>
+			<LookAt>
+				<longitude>135.50875</longitude>
+				<latitude>34.7062055556</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">271270530</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">053000</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">山崎町</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">23384.943</SimpleData>
+					<SimpleData name="PERIMETER">772.937</SimpleData>
+					<SimpleData name="H27KAxx_">769</SimpleData>
+					<SimpleData name="H27KAxx_ID">768</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0530</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">00</SimpleData>
+					<SimpleData name="KEYCODE1">127053000</SimpleData>
+					<SimpleData name="KEYCODE2">1270530</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">山崎町</SimpleData>
+					<SimpleData name="KBSUM">11</SimpleData>
+					<SimpleData name="JINKO">737</SimpleData>
+					<SimpleData name="SETAI">438</SimpleData>
+					<SimpleData name="X_CODE">135.50888</SimpleData>
+					<SimpleData name="Y_CODE">34.70609</SimpleData>
+					<SimpleData name="KCODE1">0530-00</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5081520512,34.7056828154,100 135.5082408818,34.7056885271,100 135.5084020939,34.7056987577,100 135.5085511854,34.7057104887,100 135.5088692748,34.7057207895,100 135.5090524738,34.7057267412,100 135.5097147888,34.7057482894,100 135.5097207146,34.7057485954,100 135.5104840772,34.7057733593,100 135.510780934,34.7056315815,100 135.510779664,34.7058473723,100 135.510761558,34.7059096994,100 135.5102887121,34.7061461312,100 135.5096511218,34.7063631631,100 135.5095975821,34.706381681,100 135.5091596882,34.7064683722,100 135.5090272289,34.7064848817,100 135.5089835518,34.7064940014,100 135.5085973014,34.7065293454,100 135.508307484,34.7065470475,100 135.5078982088,34.7065603222,100 135.5073703437,34.7065883265,100 135.5073739199,34.7065019346,100 135.5073757188,34.7064584772,100 135.5073785511,34.7063905945,100 135.5073828783,34.7062865183,100 135.5073897395,34.7061216007,100 135.5073938046,34.7060473846,100 135.5074191456,34.7056642117,100 135.5074395584,34.7056372496,100 135.5077076745,34.7056543933,100 135.5078295736,34.70566219,100 135.5081520512,34.7056828154,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="63670039FA319E262C3B">
+			<name>与力町</name>
+			<LookAt>
+				<longitude>135.5138997222</longitude>
+				<latitude>34.70122</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">271270540</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">127</SimpleData>
+					<SimpleData name="S_AREA">054000</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">北区</SimpleData>
+					<SimpleData name="S_NAME">与力町</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">47306.984</SimpleData>
+					<SimpleData name="PERIMETER">912.072</SimpleData>
+					<SimpleData name="H27KAxx_">409</SimpleData>
+					<SimpleData name="H27KAxx_ID">408</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">北区</SimpleData>
+					<SimpleData name="KIHON1">0540</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">00</SimpleData>
+					<SimpleData name="KEYCODE1">127054000</SimpleData>
+					<SimpleData name="KEYCODE2">1270540</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">与力町</SimpleData>
+					<SimpleData name="KBSUM">16</SimpleData>
+					<SimpleData name="JINKO">1691</SimpleData>
+					<SimpleData name="SETAI">816</SimpleData>
+					<SimpleData name="X_CODE">135.51389</SimpleData>
+					<SimpleData name="Y_CODE">34.70104</SimpleData>
+					<SimpleData name="KCODE1">0540-00</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5147743785,34.7002885742,100 135.5148009516,34.7005502557,100 135.5148413941,34.7009491876,100 135.5149037349,34.7015263938,100 135.5149618389,34.7020773839,100 135.51452624,34.702104102,100 135.5142753811,34.7021195834,100 135.513889134,34.7021432569,100 135.5130011693,34.7021978853,100 135.5129938734,34.7021040438,100 135.512957928,34.7016377986,100 135.512922551,34.7011331005,100 135.5129117645,34.7006520253,100 135.5126733866,34.7006631856,100 135.5126565489,34.7002911104,100 135.5126557893,34.7002825152,100 135.5126217273,34.6998809309,100 135.5136875605,34.6998184222,100 135.5140152371,34.699797814,100 135.5141515306,34.6997892415,100 135.5147195535,34.6997535148,100 135.5147542549,34.7001638341,100 135.5147743785,34.7002885742,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="0B4040F195319E262C3C">
+			<name>安堂寺町１丁目</name>
+			<LookAt>
+				<longitude>135.5189311111</longitude>
+				<latitude>34.676425</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128001001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">001001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">安堂寺町１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">25427.062</SimpleData>
+					<SimpleData name="PERIMETER">822.745</SimpleData>
+					<SimpleData name="H27KAxx_">4203</SimpleData>
+					<SimpleData name="H27KAxx_ID">4202</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0010</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128001001</SimpleData>
+					<SimpleData name="KEYCODE2">128001001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">安堂寺町１丁目</SimpleData>
+					<SimpleData name="KBSUM">7</SimpleData>
+					<SimpleData name="JINKO">613</SimpleData>
+					<SimpleData name="SETAI">356</SimpleData>
+					<SimpleData name="X_CODE">135.51893</SimpleData>
+					<SimpleData name="Y_CODE">34.67637</SimpleData>
+					<SimpleData name="KCODE1">0010-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5207150799,34.6762960471,100 135.5207161726,34.6763060536,100 135.5207391528,34.6764686978,100 135.5207440279,34.6765032268,100 135.5204384167,34.6765214653,100 135.5204384021,34.6765240012,100 135.5204499659,34.6766258902,100 135.5204019892,34.6766295034,100 135.5203335027,34.6766345876,100 135.5202106578,34.6766410078,100 135.5200046663,34.6766516069,100 135.520004737,34.6766525844,100 135.5193963064,34.6766790485,100 135.5193990189,34.6767378782,100 135.5191961416,34.6767511151,100 135.5191932325,34.6767012384,100 135.5188655607,34.6767138581,100 135.5187917677,34.6767167,100 135.518697333,34.6767195687,100 135.5182101938,34.6767341272,100 135.5171543988,34.6767654537,100 135.517129917,34.6764361666,100 135.517129601,34.67643194,100 135.5171046025,34.6760961689,100 135.5171038311,34.6760895452,100 135.5174165176,34.6760712014,100 135.5174677107,34.6760640789,100 135.5181476889,34.6760349298,100 135.5188655618,34.6759978974,100 135.51911078,34.6759853407,100 135.5194107393,34.6759710272,100 135.5194272837,34.6759702467,100 135.519850073,34.675951908,100 135.5206731101,34.6759141496,100 135.5207150799,34.6762960471,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="1F4022C818319E262C3C">
+			<name>安堂寺町２丁目</name>
+			<LookAt>
+				<longitude>135.5148736111</longitude>
+				<latitude>34.6764177778</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128001002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">001002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">安堂寺町２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">45409.749</SimpleData>
+					<SimpleData name="PERIMETER">1217.773</SimpleData>
+					<SimpleData name="H27KAxx_">4467</SimpleData>
+					<SimpleData name="H27KAxx_ID">4466</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0010</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128001002</SimpleData>
+					<SimpleData name="KEYCODE2">128001002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">安堂寺町２丁目</SimpleData>
+					<SimpleData name="KBSUM">30</SimpleData>
+					<SimpleData name="JINKO">2148</SimpleData>
+					<SimpleData name="SETAI">1284</SimpleData>
+					<SimpleData name="X_CODE">135.51486</SimpleData>
+					<SimpleData name="Y_CODE">34.6763</SimpleData>
+					<SimpleData name="KCODE1">0010-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5153835835,34.6760176533,100 135.5157852314,34.6760361499,100 135.5166467598,34.6760725239,100 135.5171046025,34.6760961689,100 135.517129601,34.67643194,100 135.517129917,34.6764361666,100 135.5171543988,34.6767654537,100 135.5169968276,34.6767768053,100 135.5165952905,34.6767897233,100 135.516212301,34.6768021519,100 135.5154697266,34.6768262527,100 135.5154553584,34.6768267592,100 135.5154130989,34.6768515236,100 135.5141213251,34.6769403442,100 135.5140690623,34.6769335156,100 135.5140591195,34.6769133337,100 135.5135149581,34.6769399023,100 135.5132159299,34.6769544869,100 135.5126594033,34.6769815659,100 135.5122754925,34.6769980631,100 135.5119119789,34.6770256272,100 135.5118930491,34.6767055178,100 135.5126380806,34.6766620094,100 135.5126150503,34.676372167,100 135.512611716,34.676330038,100 135.5126054025,34.6762505676,100 135.5125793523,34.6759231041,100 135.5125493903,34.675506319,100 135.5137665138,34.675913327,100 135.5139646972,34.6759479225,100 135.5146731234,34.6759889144,100 135.5153835835,34.6760176533,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="2A565C62DD319E262C3C">
+			<name>上本町西１丁目</name>
+			<LookAt>
+				<longitude>135.519395</longitude>
+				<latitude>34.6753366667</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128002001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">002001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">上本町西１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">34292.304</SimpleData>
+					<SimpleData name="PERIMETER">837.664</SimpleData>
+					<SimpleData name="H27KAxx_">1714</SimpleData>
+					<SimpleData name="H27KAxx_ID">1713</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0020</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128002001</SimpleData>
+					<SimpleData name="KEYCODE2">128002001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">上本町西１丁目</SimpleData>
+					<SimpleData name="KBSUM">9</SimpleData>
+					<SimpleData name="JINKO">809</SimpleData>
+					<SimpleData name="SETAI">463</SimpleData>
+					<SimpleData name="X_CODE">135.51939</SimpleData>
+					<SimpleData name="Y_CODE">34.67527</SimpleData>
+					<SimpleData name="KCODE1">0020-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5197360357,34.6747235734,100 135.5202448312,34.6746916267,100 135.5202201712,34.6744930344,100 135.5202143983,34.6744465488,100 135.5201985513,34.6743185848,100 135.520594029,34.6742892897,100 135.520607612,34.6743958339,100 135.5206983263,34.6751374001,100 135.520727099,34.675412333,100 135.5207375707,34.6755783079,100 135.5207712155,34.6758362159,100 135.5207763181,34.6758753949,100 135.520669385,34.6758800462,100 135.5206731101,34.6759141496,100 135.519850073,34.675951908,100 135.5194272837,34.6759702467,100 135.5194107393,34.6759710272,100 135.51911078,34.6759853407,100 135.5188655618,34.6759978974,100 135.5181476889,34.6760349298,100 135.5180932556,34.6755545209,100 135.518048579,34.6751169495,100 135.518034553,34.6749795772,100 135.5180200054,34.6748414771,100 135.5182889607,34.674814366,100 135.5182946753,34.6748138251,100 135.518996188,34.6747736257,100 135.5196946834,34.674724398,100 135.5197360357,34.6747235734,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="3C1166CF9A319E262C3C">
+			<name>上本町西２丁目</name>
+			<LookAt>
+				<longitude>135.5192663889</longitude>
+				<latitude>34.6741505556</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128002002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">002002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">上本町西２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">38422.947</SimpleData>
+					<SimpleData name="PERIMETER">811.471</SimpleData>
+					<SimpleData name="H27KAxx_">6982</SimpleData>
+					<SimpleData name="H27KAxx_ID">6981</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0020</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128002002</SimpleData>
+					<SimpleData name="KEYCODE2">128002002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">上本町西２丁目</SimpleData>
+					<SimpleData name="KBSUM">13</SimpleData>
+					<SimpleData name="JINKO">999</SimpleData>
+					<SimpleData name="SETAI">580</SimpleData>
+					<SimpleData name="X_CODE">135.51924</SimpleData>
+					<SimpleData name="Y_CODE">34.67391</SimpleData>
+					<SimpleData name="KCODE1">0020-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5200411221,34.6731489617,100 135.520444724,34.6731140635,100 135.5205026754,34.6735702579,100 135.520532532,34.6738046271,100 135.5205600967,34.6740223654,100 135.520594029,34.6742892897,100 135.5201985513,34.6743185848,100 135.5202143983,34.6744465488,100 135.5202201712,34.6744930344,100 135.5202448312,34.6746916267,100 135.5197360357,34.6747235734,100 135.5196946834,34.674724398,100 135.518996188,34.6747736257,100 135.5182946753,34.6748138251,100 135.5182889607,34.674814366,100 135.5180200054,34.6748414771,100 135.5179826064,34.6744226957,100 135.5179812506,34.6744080381,100 135.5179465114,34.6740451815,100 135.5178860062,34.6733917722,100 135.5182628146,34.6733542387,100 135.5184439797,34.6733307249,100 135.519129628,34.6732451067,100 135.5194201253,34.6732144149,100 135.5200411221,34.6731489617,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="4FD122EB67319E262C3C">
+			<name>上本町西３丁目</name>
+			<LookAt>
+				<longitude>135.5193305556</longitude>
+				<latitude>34.6726588889</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128002003</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">002003</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">上本町西３丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">34339.346</SimpleData>
+					<SimpleData name="PERIMETER">753.805</SimpleData>
+					<SimpleData name="H27KAxx_">4185</SimpleData>
+					<SimpleData name="H27KAxx_ID">4184</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0020</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">03</SimpleData>
+					<SimpleData name="KEYCODE1">128002003</SimpleData>
+					<SimpleData name="KEYCODE2">128002003</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">上本町西３丁目</SimpleData>
+					<SimpleData name="KBSUM">6</SimpleData>
+					<SimpleData name="JINKO">682</SimpleData>
+					<SimpleData name="SETAI">345</SimpleData>
+					<SimpleData name="X_CODE">135.51932</SimpleData>
+					<SimpleData name="Y_CODE">34.67252</SimpleData>
+					<SimpleData name="KCODE1">0020-03</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.520352063,34.6722967058,100 135.5203709311,34.6724773633,100 135.520444724,34.6731140635,100 135.5200411221,34.6731489617,100 135.5194201253,34.6732144149,100 135.519129628,34.6732451067,100 135.5184439797,34.6733307249,100 135.5182628146,34.6733542387,100 135.5182658464,34.6728286994,100 135.5182659455,34.6728115144,100 135.5182710113,34.6725613654,100 135.5182726926,34.6724768555,100 135.5182361873,34.6722806332,100 135.518221194,34.6721974667,100 135.5181444205,34.6721174362,100 135.5181078227,34.6716935823,100 135.5185490734,34.6716779957,100 135.5190396165,34.6716590802,100 135.5195687549,34.6716366525,100 135.5202656082,34.6716161487,100 135.520352063,34.6722967058,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="53D75394D8319E262C3C">
+			<name>上本町西４丁目</name>
+			<LookAt>
+				<longitude>135.5197633333</longitude>
+				<latitude>34.6706522222</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128002004</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">002004</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">上本町西４丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">19195.653</SimpleData>
+					<SimpleData name="PERIMETER">758.395</SimpleData>
+					<SimpleData name="H27KAxx_">7659</SimpleData>
+					<SimpleData name="H27KAxx_ID">7658</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0020</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">04</SimpleData>
+					<SimpleData name="KEYCODE1">128002004</SimpleData>
+					<SimpleData name="KEYCODE2">128002004</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">上本町西４丁目</SimpleData>
+					<SimpleData name="KBSUM">4</SimpleData>
+					<SimpleData name="JINKO">479</SimpleData>
+					<SimpleData name="SETAI">224</SimpleData>
+					<SimpleData name="X_CODE">135.51975</SimpleData>
+					<SimpleData name="Y_CODE">34.6706</SimpleData>
+					<SimpleData name="KCODE1">0020-04</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5202656082,34.6716161487,100 135.5195687549,34.6716366525,100 135.5194572576,34.6708128818,100 135.5193427241,34.6703913972,100 135.5192650386,34.670025558,100 135.5191478667,34.6695740597,100 135.5186950503,34.6696311576,100 135.5186430655,34.6693107752,100 135.519841504,34.669175756,100 135.5199690656,34.6698595734,100 135.520061117,34.6703368909,100 135.5201672174,34.6709806202,100 135.5202522229,34.6714825599,100 135.5202656082,34.6716161487,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="6EE455661D319E262C3C">
+			<name>上本町西５丁目</name>
+			<LookAt>
+				<longitude>135.5192622222</longitude>
+				<latitude>34.6680222222</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128002005</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">002005</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">上本町西５丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">28434.340</SimpleData>
+					<SimpleData name="PERIMETER">909.044</SimpleData>
+					<SimpleData name="H27KAxx_">586</SimpleData>
+					<SimpleData name="H27KAxx_ID">585</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0020</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">05</SimpleData>
+					<SimpleData name="KEYCODE1">128002005</SimpleData>
+					<SimpleData name="KEYCODE2">128002005</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">上本町西５丁目</SimpleData>
+					<SimpleData name="KBSUM">8</SimpleData>
+					<SimpleData name="JINKO">792</SimpleData>
+					<SimpleData name="SETAI">404</SimpleData>
+					<SimpleData name="X_CODE">135.51912</SimpleData>
+					<SimpleData name="Y_CODE">34.66736</SimpleData>
+					<SimpleData name="KCODE1">0020-05</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.519393906,34.6668903574,100 135.5193968917,34.6669048781,100 135.5195708416,34.6677398813,100 135.5196084095,34.6679218808,100 135.5196357786,34.6680543986,100 135.5197352364,34.6685992163,100 135.519841504,34.669175756,100 135.5186430655,34.6693107752,100 135.5184463914,34.6681969174,100 135.5189181817,34.6681298952,100 135.5186759548,34.6669845867,100 135.5186750441,34.6669797934,100 135.5185555508,34.6663410804,100 135.5185631842,34.666340126,100 135.5185421875,34.6661896037,100 135.519191006,34.6660943981,100 135.5192270097,34.6660891874,100 135.5192597694,34.6662401787,100 135.519393906,34.6668903574,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="782BF7CB5B319E262C3C">
+			<name>東平１丁目</name>
+			<LookAt>
+				<longitude>135.5189144444</longitude>
+				<latitude>34.6707311111</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128003001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">003001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">東平１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">22408.983</SimpleData>
+					<SimpleData name="PERIMETER">704.743</SimpleData>
+					<SimpleData name="H27KAxx_">2490</SimpleData>
+					<SimpleData name="H27KAxx_ID">2489</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0030</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128003001</SimpleData>
+					<SimpleData name="KEYCODE2">128003001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">東平１丁目</SimpleData>
+					<SimpleData name="KBSUM">13</SimpleData>
+					<SimpleData name="JINKO">1350</SimpleData>
+					<SimpleData name="SETAI">645</SimpleData>
+					<SimpleData name="X_CODE">135.51888</SimpleData>
+					<SimpleData name="Y_CODE">34.67059</SimpleData>
+					<SimpleData name="KCODE1">0030-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5186950503,34.6696311576,100 135.5191478667,34.6695740597,100 135.5192650386,34.670025558,100 135.5193427241,34.6703913972,100 135.5194572576,34.6708128818,100 135.5195687549,34.6716366525,100 135.5190396165,34.6716590802,100 135.5185490734,34.6716779957,100 135.518439223,34.6710066429,100 135.518392779,34.6707229062,100 135.5183470315,34.6704590342,100 135.5182900608,34.670094121,100 135.5181870342,34.6693637739,100 135.5186430655,34.6693107752,100 135.5186950503,34.6696311576,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="083A609B2E319E262C3D">
+			<name>東平２丁目</name>
+			<LookAt>
+				<longitude>135.5184402778</longitude>
+				<latitude>34.6680941667</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128003002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">003002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">東平２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">24451.318</SimpleData>
+					<SimpleData name="PERIMETER">863.029</SimpleData>
+					<SimpleData name="H27KAxx_">6161</SimpleData>
+					<SimpleData name="H27KAxx_ID">6160</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0030</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128003002</SimpleData>
+					<SimpleData name="KEYCODE2">128003002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">東平２丁目</SimpleData>
+					<SimpleData name="KBSUM">6</SimpleData>
+					<SimpleData name="JINKO">593</SimpleData>
+					<SimpleData name="SETAI">410</SimpleData>
+					<SimpleData name="X_CODE">135.51832</SimpleData>
+					<SimpleData name="Y_CODE">34.66761</SimpleData>
+					<SimpleData name="KCODE1">0030-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5186750441,34.6669797934,100 135.5186759548,34.6669845867,100 135.5189181817,34.6681298952,100 135.5184463914,34.6681969174,100 135.5186430655,34.6693107752,100 135.5181870342,34.6693637739,100 135.5180156275,34.668259875,100 135.518013248,34.6682511318,100 135.5176959105,34.6671025677,100 135.5176862782,34.6670581583,100 135.517586561,34.6664650218,100 135.5175618842,34.6663247684,100 135.5181057914,34.666248172,100 135.5185207312,34.6661927583,100 135.5185421875,34.6661896037,100 135.5185631842,34.666340126,100 135.5185555508,34.6663410804,100 135.5186750441,34.6669797934,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="1D8E08375B319E262C3D">
+			<name>上汐１丁目</name>
+			<LookAt>
+				<longitude>135.5179333333</longitude>
+				<latitude>34.6707691667</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128004001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">004001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">上汐１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">21624.376</SimpleData>
+					<SimpleData name="PERIMETER">688.009</SimpleData>
+					<SimpleData name="H27KAxx_">2749</SimpleData>
+					<SimpleData name="H27KAxx_ID">2748</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0040</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128004001</SimpleData>
+					<SimpleData name="KEYCODE2">128004001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">上汐１丁目</SimpleData>
+					<SimpleData name="KBSUM">9</SimpleData>
+					<SimpleData name="JINKO">627</SimpleData>
+					<SimpleData name="SETAI">387</SimpleData>
+					<SimpleData name="X_CODE">135.51789</SimpleData>
+					<SimpleData name="Y_CODE">34.67051</SimpleData>
+					<SimpleData name="KCODE1">0040-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5182900608,34.670094121,100 135.5183470315,34.6704590342,100 135.518392779,34.6707229062,100 135.518439223,34.6710066429,100 135.5185490734,34.6716779957,100 135.5181078227,34.6716935823,100 135.518101045,34.6716938378,100 135.5177094279,34.6717059559,100 135.5176758841,34.6715051123,100 135.5176736671,34.6714918477,100 135.5175952052,34.6715004864,100 135.5175513851,34.6715053095,100 135.5175333646,34.6713488824,100 135.517510676,34.6711518698,100 135.5174418389,34.6705543479,100 135.5173844104,34.6702176048,100 135.5172234294,34.6694716738,100 135.5176933641,34.6694249324,100 135.5177017215,34.6694241198,100 135.5181870342,34.6693637739,100 135.5182900608,34.670094121,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="2E05BF95C0319E262C3D">
+			<name>上汐２丁目</name>
+			<LookAt>
+				<longitude>135.5174763889</longitude>
+				<latitude>34.6682127778</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128004002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">004002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">上汐２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">31087.607</SimpleData>
+					<SimpleData name="PERIMETER">859.677</SimpleData>
+					<SimpleData name="H27KAxx_">5921</SimpleData>
+					<SimpleData name="H27KAxx_ID">5920</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0040</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128004002</SimpleData>
+					<SimpleData name="KEYCODE2">128004002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">上汐２丁目</SimpleData>
+					<SimpleData name="KBSUM">8</SimpleData>
+					<SimpleData name="JINKO">735</SimpleData>
+					<SimpleData name="SETAI">473</SimpleData>
+					<SimpleData name="X_CODE">135.51736</SimpleData>
+					<SimpleData name="Y_CODE">34.66771</SimpleData>
+					<SimpleData name="KCODE1">0040-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5170505448,34.66639318,100 135.5175618842,34.6663247684,100 135.517586561,34.6664650218,100 135.5176862782,34.6670581583,100 135.5176959105,34.6671025677,100 135.518013248,34.6682511318,100 135.5180156275,34.668259875,100 135.5181870342,34.6693637739,100 135.5177017215,34.6694241198,100 135.5176933641,34.6694249324,100 135.5172234294,34.6694716738,100 135.5169832978,34.6683729963,100 135.5168885421,34.6679173593,100 135.5168028674,34.6675057068,100 135.5167319986,34.6671649651,100 135.516687485,34.6669249037,100 135.5166328339,34.6665880295,100 135.5166352643,34.6665877579,100 135.5166194009,34.6664420445,100 135.5170505448,34.66639318,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="3D269A269E319E262C3D">
+			<name>中寺１丁目</name>
+			<LookAt>
+				<longitude>135.5150808333</longitude>
+				<latitude>34.6709213889</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128005001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">005001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">中寺１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">38082.022</SimpleData>
+					<SimpleData name="PERIMETER">801.895</SimpleData>
+					<SimpleData name="H27KAxx_">6202</SimpleData>
+					<SimpleData name="H27KAxx_ID">6201</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0050</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128005001</SimpleData>
+					<SimpleData name="KEYCODE2">128005001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">中寺１丁目</SimpleData>
+					<SimpleData name="KBSUM">8</SimpleData>
+					<SimpleData name="JINKO">395</SimpleData>
+					<SimpleData name="SETAI">176</SimpleData>
+					<SimpleData name="X_CODE">135.51507</SimpleData>
+					<SimpleData name="Y_CODE">34.67082</SimpleData>
+					<SimpleData name="KCODE1">0050-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5153928794,34.6717659527,100 135.5146598081,34.6717838903,100 135.5146596617,34.6717798041,100 135.5141632748,34.6717917767,100 135.5141697514,34.6714992352,100 135.5141789016,34.6712233254,100 135.5141765584,34.6704028032,100 135.5141734271,34.669871606,100 135.514165744,34.6696684538,100 135.5142706887,34.6696819708,100 135.5144527215,34.6696764962,100 135.5149996048,34.6696642995,100 135.5156620571,34.6696195974,100 135.5157442565,34.6696156978,100 135.5157487088,34.6696491001,100 135.5161375961,34.6717535497,100 135.5153928794,34.6717659527,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="40A9E569E1319E262C3D">
+			<name>中寺２丁目</name>
+			<LookAt>
+				<longitude>135.5150058333</longitude>
+				<latitude>34.6684369444</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128005002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">005002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">中寺２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">35332.833</SimpleData>
+					<SimpleData name="PERIMETER">1061.144</SimpleData>
+					<SimpleData name="H27KAxx_">2457</SimpleData>
+					<SimpleData name="H27KAxx_ID">2456</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0050</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128005002</SimpleData>
+					<SimpleData name="KEYCODE2">128005002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">中寺２丁目</SimpleData>
+					<SimpleData name="KBSUM">5</SimpleData>
+					<SimpleData name="JINKO">325</SimpleData>
+					<SimpleData name="SETAI">215</SimpleData>
+					<SimpleData name="X_CODE">135.5152</SimpleData>
+					<SimpleData name="Y_CODE">34.66815</SimpleData>
+					<SimpleData name="KCODE1">0050-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5152956863,34.6670988495,100 135.5152969659,34.6671060387,100 135.51532361,34.667317999,100 135.5151452798,34.6673327861,100 135.5152060577,34.6676705297,100 135.5152467997,34.6678987451,100 135.5153113286,34.667899001,100 135.515393773,34.6679334167,100 135.5155902911,34.6679209543,100 135.5155937864,34.6679504078,100 135.5156869835,34.6679459883,100 135.5157268654,34.6681906807,100 135.5157206882,34.668440121,100 135.515619559,34.6684595815,100 135.5156164805,34.6685053488,100 135.5157145412,34.669301038,100 135.5155760642,34.6693810616,100 135.5156645099,34.6694759291,100 135.5156620571,34.6696195974,100 135.5149996048,34.6696642995,100 135.5144527215,34.6696764962,100 135.514388841,34.6690591318,100 135.5142536688,34.6682027057,100 135.5145720023,34.6682173425,100 135.5146854827,34.6682168916,100 135.5146729362,34.6681038331,100 135.514385192,34.668068753,100 135.5142294326,34.6680491555,100 135.5141765649,34.6677141944,100 135.5141254196,34.6677139911,100 135.5140692665,34.6673952819,100 135.5140658347,34.6670549487,100 135.5145333419,34.6670424379,100 135.5144749405,34.6668020385,100 135.5144118855,34.6666072595,100 135.5149894086,34.6665777171,100 135.5150523861,34.6670794315,100 135.5152327348,34.6670694414,100 135.515233512,34.6670752205,100 135.5152956863,34.6670988495,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="57CA22369E319E262C3D">
+			<name>松屋町</name>
+			<LookAt>
+				<longitude>135.5117236111</longitude>
+				<latitude>34.6754686111</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">271280060</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">006000</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">松屋町</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">50356.435</SimpleData>
+					<SimpleData name="PERIMETER">1002.879</SimpleData>
+					<SimpleData name="H27KAxx_">5618</SimpleData>
+					<SimpleData name="H27KAxx_ID">5617</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0060</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">00</SimpleData>
+					<SimpleData name="KEYCODE1">128006000</SimpleData>
+					<SimpleData name="KEYCODE2">1280060</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">松屋町</SimpleData>
+					<SimpleData name="KBSUM">28</SimpleData>
+					<SimpleData name="JINKO">1810</SimpleData>
+					<SimpleData name="SETAI">1227</SimpleData>
+					<SimpleData name="X_CODE">135.51171</SimpleData>
+					<SimpleData name="Y_CODE">34.67511</SimpleData>
+					<SimpleData name="KCODE1">0060-00</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5113293798,34.6737675927,100 135.5117638284,34.6737438345,100 135.5117961293,34.6737455124,100 135.5120456648,34.6737589052,100 135.5120508201,34.6737592079,100 135.5124609411,34.6737700013,100 135.5124835202,34.6742463403,100 135.5125071991,34.6747460669,100 135.512536679,34.675303569,100 135.5125493903,34.675506319,100 135.5125793523,34.6759231041,100 135.5126054025,34.6762505676,100 135.512611716,34.676330038,100 135.5126150503,34.676372167,100 135.5126380806,34.6766620094,100 135.5118930491,34.6767055178,100 135.5113743534,34.6767293615,100 135.5109095949,34.6767507416,100 135.510903646,34.6764347689,100 135.5108995877,34.67621811,100 135.5109004963,34.6756996063,100 135.5108994944,34.6751870115,100 135.5108897984,34.6750232935,100 135.5108776825,34.6739997536,100 135.5108739671,34.6737901385,100 135.5108660347,34.6735726184,100 135.5108653002,34.673559797,100 135.5113053179,34.6735456412,100 135.5113293798,34.6737675927,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="6D001DA1E1319E262C3D">
+			<name>瓦屋町１丁目</name>
+			<LookAt>
+				<longitude>135.5125530556</longitude>
+				<latitude>34.6729769444</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128007001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">007001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">瓦屋町１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">58434.712</SimpleData>
+					<SimpleData name="PERIMETER">1065.072</SimpleData>
+					<SimpleData name="H27KAxx_">6162</SimpleData>
+					<SimpleData name="H27KAxx_ID">6161</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0070</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128007001</SimpleData>
+					<SimpleData name="KEYCODE2">128007001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">瓦屋町１丁目</SimpleData>
+					<SimpleData name="KBSUM">27</SimpleData>
+					<SimpleData name="JINKO">1456</SimpleData>
+					<SimpleData name="SETAI">937</SimpleData>
+					<SimpleData name="X_CODE">135.51251</SimpleData>
+					<SimpleData name="Y_CODE">34.67276</SimpleData>
+					<SimpleData name="KCODE1">0070-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5134082226,34.6718584982,100 135.5134605347,34.6718272953,100 135.5137575255,34.6718227016,100 135.5141642388,34.6718164314,100 135.5141834712,34.6723278314,100 135.5141972867,34.6726124247,100 135.5142020432,34.6727104826,100 135.5142077145,34.6728274198,100 135.5142365695,34.6728423256,100 135.5142579468,34.6728532558,100 135.5142884075,34.6730756553,100 135.5143065151,34.6731870067,100 135.5143220305,34.6732821495,100 135.5140459563,34.6733247188,100 135.5139372979,34.6733333016,100 135.5138959722,34.6732198853,100 135.5137642731,34.673268944,100 135.513606954,34.6733184641,100 135.513503338,34.6733174889,100 135.5128862118,34.6733760211,100 135.5127140824,34.6733922378,100 135.5127412497,34.673761964,100 135.5124609411,34.6737700013,100 135.5120508201,34.6737592079,100 135.5120456648,34.6737589052,100 135.5117961293,34.6737455124,100 135.5117638284,34.6737438345,100 135.5113293798,34.6737675927,100 135.5113053179,34.6735456412,100 135.5108653002,34.673559797,100 135.5108552308,34.673387203,100 135.510801516,34.6724649166,100 135.5107681733,34.6718923266,100 135.5112008216,34.6718832114,100 135.5117179612,34.6718795041,100 135.5117178061,34.6718696437,100 135.5125948781,34.6718417337,100 135.5129870521,34.6718292115,100 135.5132953687,34.6718193127,100 135.5133394594,34.6717872306,100 135.5134082226,34.6718584982,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="7D88D9AFEA319E262C3D">
+			<name>瓦屋町２丁目</name>
+			<LookAt>
+				<longitude>135.5124497222</longitude>
+				<latitude>34.6709730556</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128007002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">007002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">瓦屋町２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">75057.846</SimpleData>
+					<SimpleData name="PERIMETER">1108.064</SimpleData>
+					<SimpleData name="H27KAxx_">2484</SimpleData>
+					<SimpleData name="H27KAxx_ID">2483</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0070</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128007002</SimpleData>
+					<SimpleData name="KEYCODE2">128007002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">瓦屋町２丁目</SimpleData>
+					<SimpleData name="KBSUM">32</SimpleData>
+					<SimpleData name="JINKO">1982</SimpleData>
+					<SimpleData name="SETAI">1261</SimpleData>
+					<SimpleData name="X_CODE">135.51244</SimpleData>
+					<SimpleData name="Y_CODE">34.6707</SimpleData>
+					<SimpleData name="KCODE1">0070-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5141765584,34.6704028032,100 135.5141789016,34.6712233254,100 135.5141697514,34.6714992352,100 135.5141632748,34.6717917767,100 135.5141642388,34.6718164314,100 135.5137575255,34.6718227016,100 135.5134605347,34.6718272953,100 135.5134082226,34.6718584982,100 135.5133394594,34.6717872306,100 135.5132953687,34.6718193127,100 135.5129870521,34.6718292115,100 135.5125948781,34.6718417337,100 135.5117178061,34.6718696437,100 135.5117179612,34.6718795041,100 135.5112008216,34.6718832114,100 135.5107681733,34.6718923266,100 135.510746482,34.6714192302,100 135.510724314,34.6710272684,100 135.5107229609,34.6710034569,100 135.510672938,34.6701356982,100 135.5106537692,34.6698574218,100 135.5110806734,34.6698302543,100 135.5115835309,34.6697884572,100 135.5120861384,34.6697307399,100 135.5124532206,34.66970685,100 135.5127984928,34.6696808995,100 135.5132034629,34.6696429317,100 135.5135920356,34.6696027849,100 135.5135910617,34.6695944691,100 135.514165744,34.6696684538,100 135.5141734271,34.669871606,100 135.5141765584,34.6704028032,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="031A1B27E5319E262C3E">
+			<name>瓦屋町３丁目</name>
+			<LookAt>
+				<longitude>135.5120819444</longitude>
+				<latitude>34.6692291667</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128007003</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">007003</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">瓦屋町３丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">39583.511</SimpleData>
+					<SimpleData name="PERIMETER">842.425</SimpleData>
+					<SimpleData name="H27KAxx_">8699</SimpleData>
+					<SimpleData name="H27KAxx_ID">8698</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0070</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">03</SimpleData>
+					<SimpleData name="KEYCODE1">128007003</SimpleData>
+					<SimpleData name="KEYCODE2">128007003</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">瓦屋町３丁目</SimpleData>
+					<SimpleData name="KBSUM">14</SimpleData>
+					<SimpleData name="JINKO">985</SimpleData>
+					<SimpleData name="SETAI">652</SimpleData>
+					<SimpleData name="X_CODE">135.51207</SimpleData>
+					<SimpleData name="Y_CODE">34.66911</SimpleData>
+					<SimpleData name="KCODE1">0070-03</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5109791886,34.6685135057,100 135.5109775012,34.6684958925,100 135.5110917197,34.668484262,100 135.5115019432,34.6684424901,100 135.5119096959,34.6684087629,100 135.5125077855,34.6683631165,100 135.5126082493,34.668348022,100 135.5130540666,34.6683138792,100 135.5133203571,34.6682870498,100 135.5133412457,34.6683448854,100 135.5135005653,34.6689961555,100 135.5135188826,34.6690711663,100 135.5135393828,34.6691590044,100 135.5135910617,34.6695944691,100 135.5135920356,34.6696027849,100 135.5132034629,34.6696429317,100 135.5127984928,34.6696808995,100 135.5124532206,34.66970685,100 135.5120861384,34.6697307399,100 135.5115835309,34.6697884572,100 135.5110806734,34.6698302543,100 135.5106537692,34.6698574218,100 135.5106184497,34.6696004914,100 135.5106163772,34.6692273438,100 135.5105918153,34.6689019987,100 135.5105818013,34.6689015358,100 135.510462492,34.6688957048,100 135.5104339685,34.6685631597,100 135.5109791886,34.6685135057,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="1A857D1651319E262C3E">
+			<name>高津１丁目</name>
+			<LookAt>
+				<longitude>135.5138302778</longitude>
+				<latitude>34.6684522222</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128008001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">008001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">高津１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">60706.510</SimpleData>
+					<SimpleData name="PERIMETER">1337.955</SimpleData>
+					<SimpleData name="H27KAxx_">4401</SimpleData>
+					<SimpleData name="H27KAxx_ID">4400</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0080</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128008001</SimpleData>
+					<SimpleData name="KEYCODE2">128008001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">高津１丁目</SimpleData>
+					<SimpleData name="KBSUM">20</SimpleData>
+					<SimpleData name="JINKO">907</SimpleData>
+					<SimpleData name="SETAI">608</SimpleData>
+					<SimpleData name="X_CODE">135.51308</SimpleData>
+					<SimpleData name="Y_CODE">34.66812</SimpleData>
+					<SimpleData name="KCODE1">0080-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5140658347,34.6670549487,100 135.5140692665,34.6673952819,100 135.5141254196,34.6677139911,100 135.5141765649,34.6677141944,100 135.5142294326,34.6680491555,100 135.514385192,34.668068753,100 135.5146729362,34.6681038331,100 135.5146854827,34.6682168916,100 135.5145720023,34.6682173425,100 135.5142536688,34.6682027057,100 135.514388841,34.6690591318,100 135.5144527215,34.6696764962,100 135.5142706887,34.6696819708,100 135.514165744,34.6696684538,100 135.5135910617,34.6695944691,100 135.5135393828,34.6691590044,100 135.5135188826,34.6690711663,100 135.5135005653,34.6689961555,100 135.5133412457,34.6683448854,100 135.5133203571,34.6682870498,100 135.5130540666,34.6683138792,100 135.5126082493,34.668348022,100 135.5125077855,34.6683631165,100 135.5119096959,34.6684087629,100 135.5115019432,34.6684424901,100 135.5114897906,34.6681374777,100 135.5114861083,34.668045904,100 135.5114437206,34.668049539,100 135.5114032127,34.6675643928,100 135.5114010834,34.6675352268,100 135.5113645485,34.6669248726,100 135.5113507282,34.666795789,100 135.5113434142,34.6667274417,100 135.5113640881,34.6667269609,100 135.5116813005,34.6667159742,100 135.511713315,34.6667148337,100 135.5121292823,34.6667035353,100 135.5122691165,34.6666974735,100 135.5124943443,34.6666876655,100 135.5126947161,34.6666788859,100 135.5126948322,34.6666808588,100 135.5127983914,34.6666754965,100 135.5130762584,34.6666651932,100 135.5130762279,34.6666629393,100 135.5131492167,34.6666595681,100 135.5134139698,34.6666469589,100 135.5134136559,34.6666425908,100 135.5144118855,34.6666072595,100 135.5144749405,34.6668020385,100 135.5145333419,34.6670424379,100 135.5140658347,34.6670549487,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="2000EDDEA1319E262C3E">
+			<name>高津２丁目</name>
+			<LookAt>
+				<longitude>135.5101841667</longitude>
+				<latitude>34.6678675</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128008002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">008002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">高津２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">31235.486</SimpleData>
+					<SimpleData name="PERIMETER">828.206</SimpleData>
+					<SimpleData name="H27KAxx_">4251</SimpleData>
+					<SimpleData name="H27KAxx_ID">4250</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0080</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128008002</SimpleData>
+					<SimpleData name="KEYCODE2">128008002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">高津２丁目</SimpleData>
+					<SimpleData name="KBSUM">19</SimpleData>
+					<SimpleData name="JINKO">988</SimpleData>
+					<SimpleData name="SETAI">764</SimpleData>
+					<SimpleData name="X_CODE">135.51025</SimpleData>
+					<SimpleData name="Y_CODE">34.66767</SimpleData>
+					<SimpleData name="KCODE1">0080-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5105794222,34.6669383538,100 135.5106012998,34.6669361876,100 135.5113645485,34.6669248726,100 135.5114010834,34.6675352268,100 135.5114032127,34.6675643928,100 135.5114437206,34.668049539,100 135.5114861083,34.668045904,100 135.5114897906,34.6681374777,100 135.5115019432,34.6684424901,100 135.5110917197,34.668484262,100 135.5109775012,34.6684958925,100 135.5109422793,34.6683748936,100 135.5109226848,34.6683074834,100 135.5108723132,34.6681026108,100 135.510423771,34.6681363119,100 135.5104220975,34.6680655927,100 135.5102308195,34.6680783491,100 135.5101083709,34.6680846197,100 135.5101095863,34.6681753387,100 135.5098073561,34.6681890587,100 135.5096403166,34.6681967004,100 135.5094929314,34.6682034334,100 135.509265972,34.6682212831,100 135.5092678031,34.6682520544,100 135.5090018159,34.6682713641,100 135.5089987932,34.6682422973,100 135.5089951652,34.6682217175,100 135.508966525,34.6680546812,100 135.5089291093,34.6677926728,100 135.5090928935,34.6677803719,100 135.5090718065,34.6673512257,100 135.5090743635,34.6669672507,100 135.5094343816,34.6669543286,100 135.5099987464,34.6669451824,100 135.5105794222,34.6669383538,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="3DF9A9A647319E262C3E">
+			<name>高津３丁目</name>
+			<LookAt>
+				<longitude>135.5100861111</longitude>
+				<latitude>34.6651302778</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128008003</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">008003</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">高津３丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">93658.472</SimpleData>
+					<SimpleData name="PERIMETER">1485.085</SimpleData>
+					<SimpleData name="H27KAxx_">6928</SimpleData>
+					<SimpleData name="H27KAxx_ID">6927</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0080</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">03</SimpleData>
+					<SimpleData name="KEYCODE1">128008003</SimpleData>
+					<SimpleData name="KEYCODE2">128008003</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">高津３丁目</SimpleData>
+					<SimpleData name="KBSUM">37</SimpleData>
+					<SimpleData name="JINKO">2518</SimpleData>
+					<SimpleData name="SETAI">1708</SimpleData>
+					<SimpleData name="X_CODE">135.51002</SimpleData>
+					<SimpleData name="Y_CODE">34.6646</SimpleData>
+					<SimpleData name="KCODE1">0080-03</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5110507301,34.6635921223,100 135.5111577139,34.6647550739,100 135.5111726451,34.6649492383,100 135.5111984971,34.6652071171,100 135.5112789515,34.6660100623,100 135.5113010997,34.6662308797,100 135.5113039356,34.6663216052,100 135.5113146326,34.666445746,100 135.5113283152,34.6664962293,100 135.5113378766,34.6666758641,100 135.5113428479,34.6667222278,100 135.5113434142,34.6667274417,100 135.5113507282,34.666795789,100 135.5113645485,34.6669248726,100 135.5106012998,34.6669361876,100 135.5105794222,34.6669383538,100 135.5099987464,34.6669451824,100 135.5094343816,34.6669543286,100 135.5090743635,34.6669672507,100 135.5090394129,34.6661563173,100 135.509024365,34.6658305873,100 135.5090221672,34.6658057871,100 135.509006953,34.6654868177,100 135.5090103336,34.6654554183,100 135.50899213,34.6652823684,100 135.5089795626,34.6651003261,100 135.5089728669,34.6651010033,100 135.508923378,34.6647617529,100 135.5088733552,34.6644191206,100 135.5088259754,34.6644238597,100 135.5084860699,34.6644543281,100 135.5084010968,34.6640831008,100 135.508765003,34.6640299101,100 135.5087962188,34.6640269362,100 135.5086800635,34.66350106,100 135.5087125327,34.6634951333,100 135.5092326683,34.663400592,100 135.5093734347,34.6633801691,100 135.5095815952,34.6633502973,100 135.5098116725,34.6633329076,100 135.5099534888,34.6633222072,100 135.5099332756,34.6632152127,100 135.5098219885,34.6625125767,100 135.5101776248,34.6624727296,100 135.510254483,34.6624628954,100 135.5104630906,34.6624362626,100 135.5108687031,34.6623844991,100 135.510919049,34.6623751219,100 135.5109202634,34.6624006232,100 135.5110507301,34.6635921223,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="4025BF7667319E262C3E">
+			<name>南船場１丁目</name>
+			<LookAt>
+				<longitude>135.5086275</longitude>
+				<latitude>34.6767544444</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128009001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">009001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">南船場１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">137629.333</SimpleData>
+					<SimpleData name="PERIMETER">1485.793</SimpleData>
+					<SimpleData name="H27KAxx_">7060</SimpleData>
+					<SimpleData name="H27KAxx_ID">7059</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0090</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128009001</SimpleData>
+					<SimpleData name="KEYCODE2">128009001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">南船場１丁目</SimpleData>
+					<SimpleData name="KBSUM">43</SimpleData>
+					<SimpleData name="JINKO">2423</SimpleData>
+					<SimpleData name="SETAI">1679</SimpleData>
+					<SimpleData name="X_CODE">135.50863</SimpleData>
+					<SimpleData name="Y_CODE">34.67658</SimpleData>
+					<SimpleData name="KCODE1">0090-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5108994944,34.6751870115,100 135.5109004963,34.6756996063,100 135.5108995877,34.67621811,100 135.510903646,34.6764347689,100 135.5109095949,34.6767507416,100 135.5109025412,34.6771613212,100 135.5108960588,34.6775397869,100 135.5108802433,34.6779399073,100 135.5105158532,34.6779414047,100 135.510487846,34.6779415746,100 135.5093152314,34.6779441907,100 135.5088126639,34.6779421682,100 135.5085328554,34.6779568176,100 135.508324589,34.6779548515,100 135.5083146565,34.6779548114,100 135.5073694704,34.6779483216,100 135.5073275667,34.6779487158,100 135.5063683254,34.6779617412,100 135.506367942,34.6775584575,100 135.5063422864,34.6771685951,100 135.5063413829,34.6771483076,100 135.5063450476,34.676774057,100 135.506349095,34.6763567062,100 135.5063367289,34.6759616849,100 135.5063317023,34.6756944526,100 135.5063050769,34.6749501826,100 135.5063267321,34.6749498473,100 135.5067115912,34.6749446423,100 135.5068115136,34.6749433558,100 135.5072551601,34.6749586704,100 135.5073001738,34.67495857,100 135.5078876134,34.6749567149,100 135.5082718968,34.6749623485,100 135.5092382184,34.6749713092,100 135.5104935235,34.6749763484,100 135.5105358404,34.6750363834,100 135.510562595,34.6750750867,100 135.5106255649,34.675153094,100 135.5108805586,34.6751741172,100 135.5108994944,34.6751870115,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="5C2B978015319E262C3E">
+			<name>南船場２丁目</name>
+			<LookAt>
+				<longitude>135.5048672222</longitude>
+				<latitude>34.6767677778</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128009002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">009002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">南船場２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">90775.096</SimpleData>
+					<SimpleData name="PERIMETER">1212.613</SimpleData>
+					<SimpleData name="H27KAxx_">1869</SimpleData>
+					<SimpleData name="H27KAxx_ID">1868</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0090</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128009002</SimpleData>
+					<SimpleData name="KEYCODE2">128009002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">南船場２丁目</SimpleData>
+					<SimpleData name="KBSUM">28</SimpleData>
+					<SimpleData name="JINKO">788</SimpleData>
+					<SimpleData name="SETAI">597</SimpleData>
+					<SimpleData name="X_CODE">135.50487</SimpleData>
+					<SimpleData name="Y_CODE">34.67656</SimpleData>
+					<SimpleData name="KCODE1">0090-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5053511013,34.6749511084,100 135.5057715318,34.6749492905,100 135.5063050769,34.6749501826,100 135.5063317023,34.6756944526,100 135.5063367289,34.6759616849,100 135.506349095,34.6763567062,100 135.5063450476,34.676774057,100 135.5063413829,34.6771483076,100 135.5063422864,34.6771685951,100 135.506367942,34.6775584575,100 135.5063683254,34.6779617412,100 135.5056147293,34.6779660141,100 135.5054113807,34.6779613864,100 135.5044131228,34.6779693087,100 135.5043740304,34.677969854,100 135.5034175134,34.6779834306,100 135.5034071882,34.6775629228,100 135.5033947787,34.6771557874,100 135.5033841858,34.6770519309,100 135.5033893119,34.6767567099,100 135.5033854895,34.676325241,100 135.5033857101,34.6762808708,100 135.5033774332,34.6759602405,100 135.503370613,34.675709624,100 135.5033630784,34.6753501194,100 135.5033506184,34.6749443927,100 135.5033851857,34.674944674,100 135.5043197636,34.6749514314,100 135.5043603255,34.6749472292,100 135.5053511013,34.6749511084,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="6835D2EF9A319E262C3E">
+			<name>南船場３丁目</name>
+			<LookAt>
+				<longitude>135.5018591667</longitude>
+				<latitude>34.6768008333</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128009003</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">009003</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">南船場３丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">95293.097</SimpleData>
+					<SimpleData name="PERIMETER">1240.393</SimpleData>
+					<SimpleData name="H27KAxx_">4537</SimpleData>
+					<SimpleData name="H27KAxx_ID">4536</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0090</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">03</SimpleData>
+					<SimpleData name="KEYCODE1">128009003</SimpleData>
+					<SimpleData name="KEYCODE2">128009003</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">南船場３丁目</SimpleData>
+					<SimpleData name="KBSUM">29</SimpleData>
+					<SimpleData name="JINKO">148</SimpleData>
+					<SimpleData name="SETAI">124</SimpleData>
+					<SimpleData name="X_CODE">135.50185</SimpleData>
+					<SimpleData name="Y_CODE">34.67655</SimpleData>
+					<SimpleData name="KCODE1">0090-03</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5023958861,34.6749436021,100 135.5033506184,34.6749443927,100 135.5033630784,34.6753501194,100 135.503370613,34.675709624,100 135.5033774332,34.6759602405,100 135.5033857101,34.6762808708,100 135.5033854895,34.676325241,100 135.5033893119,34.6767567099,100 135.5033841858,34.6770519309,100 135.5033947787,34.6771557874,100 135.5034071882,34.6775629228,100 135.5034175134,34.6779834306,100 135.5034177587,34.6779924466,100 135.5024213635,34.6779882459,100 135.5024139463,34.6779882156,100 135.5014437833,34.6780098905,100 135.5004386111,34.6780404301,100 135.5003833136,34.6780420346,100 135.5003574247,34.6775679369,100 135.5003397479,34.6771675425,100 135.5003365196,34.6769524358,100 135.500327253,34.6767488571,100 135.5003142412,34.6763383398,100 135.5003074905,34.6759426364,100 135.5002984636,34.6756920112,100 135.5002941732,34.6749429026,100 135.5008916755,34.6749405589,100 135.5011828466,34.6749417494,100 135.5013851074,34.6749417303,100 135.5016144854,34.6749404135,100 135.5018792004,34.6749390999,100 135.5023603371,34.6749434571,100 135.5023958861,34.6749436021,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="759F711E52319E262C3E">
+			<name>南船場４丁目</name>
+			<LookAt>
+				<longitude>135.4990363889</longitude>
+				<latitude>34.676825</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128009004</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">009004</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">南船場４丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">79616.975</SimpleData>
+					<SimpleData name="PERIMETER">1231.538</SimpleData>
+					<SimpleData name="H27KAxx_">1089</SimpleData>
+					<SimpleData name="H27KAxx_ID">1088</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0090</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">04</SimpleData>
+					<SimpleData name="KEYCODE1">128009004</SimpleData>
+					<SimpleData name="KEYCODE2">128009004</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">南船場４丁目</SimpleData>
+					<SimpleData name="KBSUM">29</SimpleData>
+					<SimpleData name="JINKO">200</SimpleData>
+					<SimpleData name="SETAI">139</SimpleData>
+					<SimpleData name="X_CODE">135.49902</SimpleData>
+					<SimpleData name="Y_CODE">34.67654</SimpleData>
+					<SimpleData name="KCODE1">0090-04</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5002984636,34.6756920112,100 135.5003074905,34.6759426364,100 135.5003142412,34.6763383398,100 135.500327253,34.6767488571,100 135.5003365196,34.6769524358,100 135.5003397479,34.6771675425,100 135.5003574247,34.6775679369,100 135.5003833136,34.6780420346,100 135.4999527852,34.6780544971,100 135.4999477042,34.6779919347,100 135.4995524599,34.6779849617,100 135.499547592,34.6778942283,100 135.4989960862,34.6779067546,100 135.4989916828,34.677767004,100 135.4988455777,34.6777704886,100 135.4988418466,34.6779018948,100 135.4985629704,34.6779030025,100 135.4985638152,34.6780034393,100 135.4981334162,34.6780156138,100 135.4981427675,34.678076645,100 135.4981001798,34.6780771738,100 135.4978146862,34.6780798023,100 135.4978115245,34.6780244309,100 135.4977886468,34.6776261284,100 135.4977863677,34.6775871004,100 135.4977381377,34.6767554105,100 135.4976730865,34.6757516615,100 135.4976087025,34.6750051237,100 135.4979769435,34.6749918491,100 135.4982729454,34.6749836286,100 135.4989040307,34.6749681915,100 135.4994135175,34.6749576056,100 135.5002777184,34.6749431173,100 135.5002941732,34.6749429026,100 135.5002984636,34.6756920112,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="81DE296704319E262C3E">
+			<name>島之内１丁目</name>
+			<LookAt>
+				<longitude>135.5085877778</longitude>
+				<latitude>34.6738666667</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128010001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">010001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">島之内１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">142784.212</SimpleData>
+					<SimpleData name="PERIMETER">1548.734</SimpleData>
+					<SimpleData name="H27KAxx_">2896</SimpleData>
+					<SimpleData name="H27KAxx_ID">2895</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0100</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128010001</SimpleData>
+					<SimpleData name="KEYCODE2">128010001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">島之内１丁目</SimpleData>
+					<SimpleData name="KBSUM">52</SimpleData>
+					<SimpleData name="JINKO">2244</SimpleData>
+					<SimpleData name="SETAI">1659</SimpleData>
+					<SimpleData name="X_CODE">135.50858</SimpleData>
+					<SimpleData name="Y_CODE">34.67346</SimpleData>
+					<SimpleData name="KCODE1">0100-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5103513626,34.6718902341,100 135.5107681733,34.6718923266,100 135.510801516,34.6724649166,100 135.5108552308,34.673387203,100 135.5108653002,34.673559797,100 135.5108660347,34.6735726184,100 135.5108739671,34.6737901385,100 135.5108776825,34.6739997536,100 135.5108897984,34.6750232935,100 135.5108994944,34.6751870115,100 135.5108805586,34.6751741172,100 135.5106255649,34.675153094,100 135.510562595,34.6750750867,100 135.5105358404,34.6750363834,100 135.5104935235,34.6749763484,100 135.5092382184,34.6749713092,100 135.5082718968,34.6749623485,100 135.5078876134,34.6749567149,100 135.5073001738,34.67495857,100 135.5072551601,34.6749586704,100 135.5068115136,34.6749433558,100 135.5067115912,34.6749446423,100 135.5063267321,34.6749498473,100 135.5063219302,34.6747530468,100 135.5063115755,34.6743276079,100 135.5062922284,34.6735347697,100 135.5062722709,34.6727153058,100 135.5062529269,34.6719220456,100 135.5067542203,34.6719240718,100 135.5068449178,34.6719252829,100 135.5068545152,34.6718953187,100 135.5072359997,34.6718958728,100 135.5074845812,34.6718894104,100 135.507734761,34.6718863347,100 135.5082164972,34.6718946145,100 135.5087108576,34.6718867442,100 135.509179529,34.6718911651,100 135.509250289,34.6718906039,100 135.5093661052,34.6718896612,100 135.5097036586,34.6718876366,100 135.5097085611,34.6718876562,100 135.5103513626,34.6718902341,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="0F245E8EC8319E262C3F">
+			<name>島之内２丁目</name>
+			<LookAt>
+				<longitude>135.5084588889</longitude>
+				<latitude>34.6707125</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128010002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">010002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">島之内２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">134190.353</SimpleData>
+					<SimpleData name="PERIMETER">1476.487</SimpleData>
+					<SimpleData name="H27KAxx_">6051</SimpleData>
+					<SimpleData name="H27KAxx_ID">6050</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0100</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128010002</SimpleData>
+					<SimpleData name="KEYCODE2">128010002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">島之内２丁目</SimpleData>
+					<SimpleData name="KBSUM">61</SimpleData>
+					<SimpleData name="JINKO">4017</SimpleData>
+					<SimpleData name="SETAI">2994</SimpleData>
+					<SimpleData name="X_CODE">135.50846</SimpleData>
+					<SimpleData name="Y_CODE">34.67064</SimpleData>
+					<SimpleData name="KCODE1">0100-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5106163772,34.6692273438,100 135.5106184497,34.6696004914,100 135.5106537692,34.6698574218,100 135.510672938,34.6701356982,100 135.5107229609,34.6710034569,100 135.510724314,34.6710272684,100 135.510746482,34.6714192302,100 135.5107681733,34.6718923266,100 135.5103513626,34.6718902341,100 135.5097085611,34.6718876562,100 135.5097036586,34.6718876366,100 135.5093661052,34.6718896612,100 135.509250289,34.6718906039,100 135.509179529,34.6718911651,100 135.5087108576,34.6718867442,100 135.5082164972,34.6718946145,100 135.507734761,34.6718863347,100 135.5074845812,34.6718894104,100 135.5072359997,34.6718958728,100 135.5068545152,34.6718953187,100 135.5068449178,34.6719252829,100 135.5067542203,34.6719240718,100 135.5062529269,34.6719220456,100 135.5062250002,34.671088182,100 135.5061966183,34.6702807991,100 135.5061817498,34.6698621028,100 135.5061753933,34.6696830427,100 135.5061633357,34.6693438025,100 135.5061522633,34.6690325977,100 135.5066921493,34.6690140728,100 135.5068891491,34.6690074038,100 135.5072254215,34.6689894625,100 135.5079662904,34.6689607568,100 135.5080498919,34.6689575705,100 135.5090343207,34.6689192734,100 135.5090465565,34.6689187592,100 135.5102549337,34.6688933245,100 135.510462492,34.6688957048,100 135.5105818013,34.6689015358,100 135.5105918153,34.6689019987,100 135.5106163772,34.6692273438,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="1058A73A50319E262C3F">
+			<name>道頓堀１丁目</name>
+			<LookAt>
+				<longitude>135.5032305556</longitude>
+				<latitude>34.6686575</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128011001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">011001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">道頓堀１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">79472.478</SimpleData>
+					<SimpleData name="PERIMETER">2292.095</SimpleData>
+					<SimpleData name="H27KAxx_">6918</SimpleData>
+					<SimpleData name="H27KAxx_ID">6917</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0110</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128011001</SimpleData>
+					<SimpleData name="KEYCODE2">128011001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">道頓堀１丁目</SimpleData>
+					<SimpleData name="KBSUM">24</SimpleData>
+					<SimpleData name="JINKO">508</SimpleData>
+					<SimpleData name="SETAI">334</SimpleData>
+					<SimpleData name="X_CODE">135.50323</SimpleData>
+					<SimpleData name="Y_CODE">34.6686</SimpleData>
+					<SimpleData name="KCODE1">0110-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5031495071,34.6682989351,100 135.5042503808,34.6683455245,100 135.5052050934,34.6683364364,100 135.5056739493,34.6683350956,100 135.5061327462,34.6683337115,100 135.5061438913,34.6687332361,100 135.5066812878,34.668717237,100 135.5066829515,34.6687171022,100 135.5068745192,34.6687063257,100 135.5069189558,34.6687022788,100 135.5071238251,34.6686838089,100 135.507106964,34.6682983471,100 135.5071021559,34.6681887388,100 135.5071006552,34.6681540798,100 135.5074961069,34.6681322925,100 135.5079168569,34.6681065202,100 135.5080986061,34.6680979549,100 135.5083382109,34.6680865238,100 135.508966525,34.6680546812,100 135.5089951652,34.6682217175,100 135.5089987932,34.6682422973,100 135.5090018159,34.6682713641,100 135.5092678031,34.6682520544,100 135.509265972,34.6682212831,100 135.5094929314,34.6682034334,100 135.5096403166,34.6681967004,100 135.5098073561,34.6681890587,100 135.5101095863,34.6681753387,100 135.5101083709,34.6680846197,100 135.5102308195,34.6680783491,100 135.5104220975,34.6680655927,100 135.510423771,34.6681363119,100 135.5108723132,34.6681026108,100 135.5109226848,34.6683074834,100 135.5109422793,34.6683748936,100 135.5109775012,34.6684958925,100 135.5109791886,34.6685135057,100 135.5104339685,34.6685631597,100 135.510462492,34.6688957048,100 135.5102549337,34.6688933245,100 135.5090465565,34.6689187592,100 135.5090343207,34.6689192734,100 135.5080498919,34.6689575705,100 135.5079662904,34.6689607568,100 135.5072254215,34.6689894625,100 135.5068891491,34.6690074038,100 135.5066921493,34.6690140728,100 135.5061522633,34.6690325977,100 135.5056912104,34.6690328458,100 135.50521065,34.6690309,100 135.5051505474,34.66904601,100 135.5042734733,34.669049778,100 135.5042657583,34.6690498874,100 135.5036595018,34.6690551727,100 135.5032524598,34.6690540813,100 135.5027870316,34.6690592309,100 135.5024500852,34.6690540553,100 135.5016606165,34.6690553442,100 135.5013029035,34.6690448691,100 135.5012712956,34.6690488248,100 135.5009435699,34.6690415704,100 135.5002971769,34.6690231512,100 135.500317098,34.6687074246,100 135.5003397607,34.6681333728,100 135.5012924087,34.6681483941,100 135.5022506338,34.6681573734,100 135.5031565631,34.6681804999,100 135.5031495071,34.6682989351,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="2C363969D3319E262C3F">
+			<name>道頓堀２丁目</name>
+			<LookAt>
+				<longitude>135.4988302778</longitude>
+				<latitude>34.6686347222</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128011002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">011002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">道頓堀２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">26336.144</SimpleData>
+					<SimpleData name="PERIMETER">729.877</SimpleData>
+					<SimpleData name="H27KAxx_">1785</SimpleData>
+					<SimpleData name="H27KAxx_ID">1784</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0110</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128011002</SimpleData>
+					<SimpleData name="KEYCODE2">128011002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">道頓堀２丁目</SimpleData>
+					<SimpleData name="KBSUM">5</SimpleData>
+					<SimpleData name="JINKO">31</SimpleData>
+					<SimpleData name="SETAI">24</SimpleData>
+					<SimpleData name="X_CODE">135.49883</SimpleData>
+					<SimpleData name="Y_CODE">34.66858</SimpleData>
+					<SimpleData name="KCODE1">0110-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.4981769399,34.6681108433,100 135.4983450022,34.6681174493,100 135.499379017,34.6681250722,100 135.5003397607,34.6681333728,100 135.500317098,34.6687074246,100 135.5002971769,34.6690231512,100 135.4993630879,34.6690034081,100 135.4976854845,34.6689770819,100 135.4973424392,34.6689798959,100 135.4973409051,34.668690001,100 135.4973396475,34.6684461677,100 135.4976069232,34.6680517336,100 135.4981769399,34.6681108433,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="3BCF122DF4319E262C3F">
+			<name>千日前１丁目</name>
+			<LookAt>
+				<longitude>135.5044077778</longitude>
+				<latitude>34.6677675</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128012001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">012001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">千日前１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">35851.934</SimpleData>
+					<SimpleData name="PERIMETER">768.378</SimpleData>
+					<SimpleData name="H27KAxx_">3443</SimpleData>
+					<SimpleData name="H27KAxx_ID">3442</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0120</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128012001</SimpleData>
+					<SimpleData name="KEYCODE2">128012001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">千日前１丁目</SimpleData>
+					<SimpleData name="KBSUM">9</SimpleData>
+					<SimpleData name="JINKO">251</SimpleData>
+					<SimpleData name="SETAI">187</SimpleData>
+					<SimpleData name="X_CODE">135.50439</SimpleData>
+					<SimpleData name="Y_CODE">34.66742</SimpleData>
+					<SimpleData name="KCODE1">0120-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5056553977,34.6676824145,100 135.5056664906,34.6679826328,100 135.5056619498,34.6680871331,100 135.5056739493,34.6683350956,100 135.5052050934,34.6683364364,100 135.5042503808,34.6683455245,100 135.5031495071,34.6682989351,100 135.5031565631,34.6681804999,100 135.5031624748,34.6679823345,100 135.5031625445,34.6679706432,100 135.5031560613,34.6677352395,100 135.5031529771,34.6676591625,100 135.5031331465,34.6669387241,100 135.5032134549,34.6669370782,100 135.5037237393,34.6669270386,100 135.5042598245,34.6669218904,100 135.5045691071,34.6669183553,100 135.505190926,34.6669094658,100 135.5056056454,34.66690058,100 135.5056278359,34.6671764746,100 135.5056553977,34.6676824145,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="4F57DF6DDC319E262C3F">
+			<name>千日前２丁目</name>
+			<LookAt>
+				<longitude>135.5042161111</longitude>
+				<latitude>34.6663122222</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128012002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">012002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">千日前２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">44995.585</SimpleData>
+					<SimpleData name="PERIMETER">1012.058</SimpleData>
+					<SimpleData name="H27KAxx_">5484</SimpleData>
+					<SimpleData name="H27KAxx_ID">5483</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0120</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128012002</SimpleData>
+					<SimpleData name="KEYCODE2">128012002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">千日前２丁目</SimpleData>
+					<SimpleData name="KBSUM">14</SimpleData>
+					<SimpleData name="JINKO">163</SimpleData>
+					<SimpleData name="SETAI">122</SimpleData>
+					<SimpleData name="X_CODE">135.50422</SimpleData>
+					<SimpleData name="Y_CODE">34.66624</SimpleData>
+					<SimpleData name="KCODE1">0120-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5032850114,34.6654636915,100 135.5041077401,34.6655183062,100 135.5041673893,34.6655144627,100 135.5044231088,34.6654942308,100 135.5044339384,34.6654934291,100 135.5050455961,34.6654351972,100 135.5055326098,34.6653875861,100 135.5055528915,34.6657696812,100 135.5055730259,34.6661552978,100 135.505581247,34.666342957,100 135.5056056454,34.66690058,100 135.505190926,34.6669094658,100 135.5045691071,34.6669183553,100 135.5042598245,34.6669218904,100 135.5037237393,34.6669270386,100 135.5032134549,34.6669370782,100 135.5031331465,34.6669387241,100 135.5023167639,34.6669539947,100 135.5020620166,34.6669532379,100 135.5020714141,34.6666643722,100 135.5020801141,34.6664135363,100 135.5028352941,34.666447178,100 135.5028969773,34.6659592085,100 135.5028575437,34.6659535543,100 135.5028481584,34.6658692822,100 135.5027363719,34.665860657,100 135.5027752622,34.6653496344,100 135.503261792,34.6654621881,100 135.5032850114,34.6654636915,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="52207F7F2D319E262C3F">
+			<name>難波千日前</name>
+			<LookAt>
+				<longitude>135.5038819444</longitude>
+				<latitude>34.6645502778</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">271280130</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">013000</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">難波千日前</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">68957.708</SimpleData>
+					<SimpleData name="PERIMETER">1058.477</SimpleData>
+					<SimpleData name="H27KAxx_">15</SimpleData>
+					<SimpleData name="H27KAxx_ID">14</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0130</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">00</SimpleData>
+					<SimpleData name="KEYCODE1">128013000</SimpleData>
+					<SimpleData name="KEYCODE2">1280130</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">難波千日前</SimpleData>
+					<SimpleData name="KBSUM">18</SimpleData>
+					<SimpleData name="JINKO">612</SimpleData>
+					<SimpleData name="SETAI">388</SimpleData>
+					<SimpleData name="X_CODE">135.5039</SimpleData>
+					<SimpleData name="Y_CODE">34.66448</SimpleData>
+					<SimpleData name="KCODE1">0130-00</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5034319273,34.6631654523,100 135.5034508534,34.6631648233,100 135.5037519751,34.6631553408,100 135.5037580287,34.6631550841,100 135.5040626905,34.6631454746,100 135.5047757694,34.6631151228,100 135.504784893,34.6631147369,100 135.5051712093,34.6630984128,100 135.505181299,34.6631362042,100 135.5052895014,34.6635618988,100 135.5053149973,34.6636968059,100 135.5053841832,34.6640683936,100 135.5053901702,34.6641010965,100 135.5054916195,34.6646667791,100 135.5055326098,34.6653875861,100 135.5050455961,34.6654351972,100 135.5044339384,34.6654934291,100 135.5044231088,34.6654942308,100 135.5041673893,34.6655144627,100 135.5041077401,34.6655183062,100 135.5032850114,34.6654636915,100 135.503261792,34.6654621881,100 135.5027752622,34.6653496344,100 135.502178167,34.6652315584,100 135.5017675723,34.6651577646,100 135.5021939088,34.6647219905,100 135.5024452856,34.6642868268,100 135.5024840395,34.6642197386,100 135.5024933849,34.6642034045,100 135.5026572336,34.6639169918,100 135.5026088337,34.6638900616,100 135.502590996,34.6638801373,100 135.5026704112,34.6637348116,100 135.5026725362,34.6637358047,100 135.502682106,34.6637176739,100 135.5026967339,34.6637233678,100 135.5029363456,34.6633154245,100 135.5030588126,34.6631974602,100 135.5031505829,34.66317445,100 135.5034319273,34.6631654523,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="686752B07C319E262C3F">
+			<name>難波１丁目</name>
+			<LookAt>
+				<longitude>135.5017475</longitude>
+				<latitude>34.6676838889</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128014001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">014001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">難波１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">34066.928</SimpleData>
+					<SimpleData name="PERIMETER">778.016</SimpleData>
+					<SimpleData name="H27KAxx_">4617</SimpleData>
+					<SimpleData name="H27KAxx_ID">4616</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0140</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128014001</SimpleData>
+					<SimpleData name="KEYCODE2">128014001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">難波１丁目</SimpleData>
+					<SimpleData name="KBSUM">9</SimpleData>
+					<SimpleData name="JINKO">45</SimpleData>
+					<SimpleData name="SETAI">19</SimpleData>
+					<SimpleData name="X_CODE">135.50175</SimpleData>
+					<SimpleData name="Y_CODE">34.66755</SimpleData>
+					<SimpleData name="KCODE1">0140-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5023167639,34.6669539947,100 135.5031331465,34.6669387241,100 135.5031529771,34.6676591625,100 135.5031560613,34.6677352395,100 135.5031625445,34.6679706432,100 135.5031624748,34.6679823345,100 135.5031565631,34.6681804999,100 135.5022506338,34.6681573734,100 135.5012924087,34.6681483941,100 135.5003397607,34.6681333728,100 135.5003363506,34.6678419201,100 135.5003482759,34.6674379829,100 135.5003618029,34.6669799621,100 135.5013586228,34.6669616378,100 135.5020620166,34.6669532379,100 135.5023167639,34.6669539947,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="052CF185C4319E262C40">
+			<name>難波２丁目</name>
+			<LookAt>
+				<longitude>135.4991011111</longitude>
+				<latitude>34.6676719444</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128014002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">014002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">難波２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">27262.464</SimpleData>
+					<SimpleData name="PERIMETER">697.702</SimpleData>
+					<SimpleData name="H27KAxx_">4313</SimpleData>
+					<SimpleData name="H27KAxx_ID">4312</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0140</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128014002</SimpleData>
+					<SimpleData name="KEYCODE2">128014002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">難波２丁目</SimpleData>
+					<SimpleData name="KBSUM">5</SimpleData>
+					<SimpleData name="JINKO">17</SimpleData>
+					<SimpleData name="SETAI">15</SimpleData>
+					<SimpleData name="X_CODE">135.49912</SimpleData>
+					<SimpleData name="Y_CODE">34.66762</SimpleData>
+					<SimpleData name="KCODE1">0140-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5003363506,34.6678419201,100 135.5003397607,34.6681333728,100 135.499379017,34.6681250722,100 135.4983450022,34.6681174493,100 135.4981769399,34.6681108433,100 135.4976069232,34.6680517336,100 135.4977755915,34.6678021199,100 135.4982291334,34.6671082776,100 135.4982941983,34.6670617794,100 135.4984627338,34.6670461317,100 135.4984828707,34.6670145212,100 135.4988770216,34.6670028973,100 135.4993950578,34.6670010771,100 135.5003618029,34.6669799621,100 135.5003482759,34.6674379829,100 135.5003363506,34.6678419201,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="10087EEBB8319E262C40">
+			<name>難波３丁目</name>
+			<LookAt>
+				<longitude>135.5016091667</longitude>
+				<latitude>34.6662511111</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128014003</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">014003</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">難波３丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">36929.787</SimpleData>
+					<SimpleData name="PERIMETER">825.466</SimpleData>
+					<SimpleData name="H27KAxx_">7117</SimpleData>
+					<SimpleData name="H27KAxx_ID">7116</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0140</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">03</SimpleData>
+					<SimpleData name="KEYCODE1">128014003</SimpleData>
+					<SimpleData name="KEYCODE2">128014003</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">難波３丁目</SimpleData>
+					<SimpleData name="KBSUM">8</SimpleData>
+					<SimpleData name="JINKO">34</SimpleData>
+					<SimpleData name="SETAI">20</SimpleData>
+					<SimpleData name="X_CODE">135.50162</SimpleData>
+					<SimpleData name="Y_CODE">34.6661</SimpleData>
+					<SimpleData name="KCODE1">0140-03</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5015622793,34.6654127291,100 135.5015750138,34.6653570005,100 135.5017675723,34.6651577646,100 135.502178167,34.6652315584,100 135.5027752622,34.6653496344,100 135.5027363719,34.665860657,100 135.5028481584,34.6658692822,100 135.5028575437,34.6659535543,100 135.5028969773,34.6659592085,100 135.5028352941,34.666447178,100 135.5020801141,34.6664135363,100 135.5020714141,34.6666643722,100 135.5020620166,34.6669532379,100 135.5013586228,34.6669616378,100 135.5003618029,34.6669799621,100 135.5003572413,34.6666317379,100 135.5003581812,34.6662401514,100 135.5003591971,34.6657861649,100 135.5003596234,34.665601217,100 135.5003597163,34.6655714966,100 135.5007716391,34.6653237162,100 135.5007846864,34.6653158814,100 135.5015622793,34.6654127291,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="2D246DA161319E262C40">
+			<name>難波４丁目</name>
+			<LookAt>
+				<longitude>135.4995963889</longitude>
+				<latitude>34.6662019444</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128014004</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">014004</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">難波４丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">27752.459</SimpleData>
+					<SimpleData name="PERIMETER">739.300</SimpleData>
+					<SimpleData name="H27KAxx_">3631</SimpleData>
+					<SimpleData name="H27KAxx_ID">3630</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0140</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">04</SimpleData>
+					<SimpleData name="KEYCODE1">128014004</SimpleData>
+					<SimpleData name="KEYCODE2">128014004</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">難波４丁目</SimpleData>
+					<SimpleData name="KBSUM">8</SimpleData>
+					<SimpleData name="JINKO">85</SimpleData>
+					<SimpleData name="SETAI">48</SimpleData>
+					<SimpleData name="X_CODE">135.49969</SimpleData>
+					<SimpleData name="Y_CODE">34.66594</SimpleData>
+					<SimpleData name="KCODE1">0140-04</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5003597163,34.6655714966,100 135.5003596234,34.665601217,100 135.5003591971,34.6657861649,100 135.5003581812,34.6662401514,100 135.5003572413,34.6666317379,100 135.5003618029,34.6669799621,100 135.4993950578,34.6670010771,100 135.4988770216,34.6670028973,100 135.4984828707,34.6670145212,100 135.4984627338,34.6670461317,100 135.4982941983,34.6670617794,100 135.4985596556,34.6666352192,100 135.4988788873,34.6661322512,100 135.4989135354,34.6660832335,100 135.4992086375,34.6656658081,100 135.4994905985,34.6652787538,100 135.4997575146,34.6649123446,100 135.4998763542,34.6649384671,100 135.5000559431,34.6649834324,100 135.5001300361,34.6650516295,100 135.5001587017,34.6651826044,100 135.5004152275,34.6652089929,100 135.5003597163,34.6655714966,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="3239CC9727319E262C40">
+			<name>難波５丁目</name>
+			<LookAt>
+				<longitude>135.5011377778</longitude>
+				<latitude>34.6645680556</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128014005</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">014005</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">難波５丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">41770.761</SimpleData>
+					<SimpleData name="PERIMETER">863.380</SimpleData>
+					<SimpleData name="H27KAxx_">5702</SimpleData>
+					<SimpleData name="H27KAxx_ID">5701</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0140</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">05</SimpleData>
+					<SimpleData name="KEYCODE1">128014005</SimpleData>
+					<SimpleData name="KEYCODE2">128014005</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">難波５丁目</SimpleData>
+					<SimpleData name="KBSUM">1</SimpleData>
+					<SimpleData name="JINKO">3</SimpleData>
+					<SimpleData name="SETAI">2</SimpleData>
+					<SimpleData name="X_CODE">135.5013</SimpleData>
+					<SimpleData name="Y_CODE">34.66431</SimpleData>
+					<SimpleData name="KCODE1">0140-05</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5007716391,34.6653237162,100 135.5003597163,34.6655714966,100 135.5004152275,34.6652089929,100 135.5001587017,34.6651826044,100 135.5001300361,34.6650516295,100 135.5000559431,34.6649834324,100 135.4998763542,34.6649384671,100 135.4997575146,34.6649123446,100 135.4998584793,34.6647635862,100 135.500155407,34.6643313754,100 135.500582388,34.6637389744,100 135.5009061286,34.6632763037,100 135.5010547083,34.6630756207,100 135.5010916943,34.6630626719,100 135.502330922,34.6635811585,100 135.5023462726,34.6635871375,100 135.502682106,34.6637176739,100 135.5026725362,34.6637358047,100 135.5026704112,34.6637348116,100 135.502590996,34.6638801373,100 135.5026088337,34.6638900616,100 135.5026572336,34.6639169918,100 135.5024933849,34.6642034045,100 135.5024840395,34.6642197386,100 135.5024452856,34.6642868268,100 135.5021939088,34.6647219905,100 135.5017675723,34.6651577646,100 135.5015750138,34.6653570005,100 135.5015622793,34.6654127291,100 135.5007846864,34.6653158814,100 135.5007716391,34.6653237162,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="4AEDCA8989319E262C40">
+			<name>日本橋１丁目</name>
+			<LookAt>
+				<longitude>135.5073527778</longitude>
+				<latitude>34.66728</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128015001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">015001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">日本橋１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">106264.450</SimpleData>
+					<SimpleData name="PERIMETER">1394.317</SimpleData>
+					<SimpleData name="H27KAxx_">8423</SimpleData>
+					<SimpleData name="H27KAxx_ID">8422</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0150</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128015001</SimpleData>
+					<SimpleData name="KEYCODE2">128015001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">日本橋１丁目</SimpleData>
+					<SimpleData name="KBSUM">40</SimpleData>
+					<SimpleData name="JINKO">1343</SimpleData>
+					<SimpleData name="SETAI">968</SimpleData>
+					<SimpleData name="X_CODE">135.50734</SimpleData>
+					<SimpleData name="Y_CODE">34.66693</SimpleData>
+					<SimpleData name="KCODE1">0150-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5060277467,34.6653571913,100 135.5060275729,34.6653504293,100 135.5064475619,34.6653428291,100 135.5066176443,34.6653459121,100 135.5070114814,34.6653210199,100 135.507406335,34.6652752831,100 135.5077876214,34.6652245592,100 135.5077939349,34.665223739,100 135.5089728669,34.6651010033,100 135.5089795626,34.6651003261,100 135.50899213,34.6652823684,100 135.5090103336,34.6654554183,100 135.509006953,34.6654868177,100 135.5090221672,34.6658057871,100 135.509024365,34.6658305873,100 135.5090394129,34.6661563173,100 135.5090743635,34.6669672507,100 135.5090718065,34.6673512257,100 135.5090928935,34.6677803719,100 135.5089291093,34.6677926728,100 135.508966525,34.6680546812,100 135.5083382109,34.6680865238,100 135.5080986061,34.6680979549,100 135.5079168569,34.6681065202,100 135.5074961069,34.6681322925,100 135.5071006552,34.6681540798,100 135.5071021559,34.6681887388,100 135.507106964,34.6682983471,100 135.5071238251,34.6686838089,100 135.5069189558,34.6687022788,100 135.5068745192,34.6687063257,100 135.5066829515,34.6687171022,100 135.5066812878,34.668717237,100 135.5061438913,34.6687332361,100 135.5061327462,34.6683337115,100 135.5056739493,34.6683350956,100 135.5056619498,34.6680871331,100 135.5056664906,34.6679826328,100 135.5056553977,34.6676824145,100 135.5056278359,34.6671764746,100 135.5056056454,34.66690058,100 135.505581247,34.666342957,100 135.5055730259,34.6661552978,100 135.5055528915,34.6657696812,100 135.5055326098,34.6653875861,100 135.5060277467,34.6653571913,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="5210AA2679319E262C40">
+			<name>日本橋２丁目</name>
+			<LookAt>
+				<longitude>135.5069255556</longitude>
+				<latitude>34.6642375</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128015002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">015002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">日本橋２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">91502.850</SimpleData>
+					<SimpleData name="PERIMETER">1464.792</SimpleData>
+					<SimpleData name="H27KAxx_">348</SimpleData>
+					<SimpleData name="H27KAxx_ID">347</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0150</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128015002</SimpleData>
+					<SimpleData name="KEYCODE2">128015002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">日本橋２丁目</SimpleData>
+					<SimpleData name="KBSUM">33</SimpleData>
+					<SimpleData name="JINKO">2074</SimpleData>
+					<SimpleData name="SETAI">1519</SimpleData>
+					<SimpleData name="X_CODE">135.50705</SimpleData>
+					<SimpleData name="Y_CODE">34.66386</SimpleData>
+					<SimpleData name="KCODE1">0150-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5092326683,34.663400592,100 135.5087125327,34.6634951333,100 135.5086800635,34.66350106,100 135.5087962188,34.6640269362,100 135.508765003,34.6640299101,100 135.5084010968,34.6640831008,100 135.5084860699,34.6644543281,100 135.5088259754,34.6644238597,100 135.5088733552,34.6644191206,100 135.508923378,34.6647617529,100 135.5089728669,34.6651010033,100 135.5077939349,34.665223739,100 135.5077876214,34.6652245592,100 135.507406335,34.6652752831,100 135.5070114814,34.6653210199,100 135.5066176443,34.6653459121,100 135.5064475619,34.6653428291,100 135.5060275729,34.6653504293,100 135.5060277467,34.6653571913,100 135.5055326098,34.6653875861,100 135.5054916195,34.6646667791,100 135.5053901702,34.6641010965,100 135.5053841832,34.6640683936,100 135.5053149973,34.6636968059,100 135.5052895014,34.6635618988,100 135.505181299,34.6631362042,100 135.5051712093,34.6630984128,100 135.505183657,34.6630978998,100 135.5059664602,34.6630176769,100 135.5060271984,34.6630096104,100 135.5065110967,34.6629456423,100 135.5067806245,34.6629094024,100 135.5068255309,34.6629045126,100 135.5075433808,34.6628165519,100 135.5080203261,34.6627532538,100 135.5085063977,34.6626961883,100 135.5086061178,34.6626819991,100 135.5090734551,34.6626155003,100 135.5091632453,34.6626026204,100 135.5097013955,34.6625311097,100 135.5098219885,34.6625125767,100 135.5099332756,34.6632152127,100 135.5099534888,34.6633222072,100 135.5098116725,34.6633329076,100 135.5095815952,34.6633502973,100 135.5093734347,34.6633801691,100 135.5092326683,34.663400592,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="64573980A5319E262C40">
+			<name>東心斎橋１丁目</name>
+			<LookAt>
+				<longitude>135.5043238889</longitude>
+				<latitude>34.6737394444</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128016001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">016001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">東心斎橋１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">120320.796</SimpleData>
+					<SimpleData name="PERIMETER">1390.653</SimpleData>
+					<SimpleData name="H27KAxx_">6840</SimpleData>
+					<SimpleData name="H27KAxx_ID">6839</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0160</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128016001</SimpleData>
+					<SimpleData name="KEYCODE2">128016001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">東心斎橋１丁目</SimpleData>
+					<SimpleData name="KBSUM">42</SimpleData>
+					<SimpleData name="JINKO">1031</SimpleData>
+					<SimpleData name="SETAI">760</SimpleData>
+					<SimpleData name="X_CODE">135.50432</SimpleData>
+					<SimpleData name="Y_CODE">34.67334</SimpleData>
+					<SimpleData name="KCODE1">0160-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5057852029,34.6719302951,100 135.5062529269,34.6719220456,100 135.5062722709,34.6727153058,100 135.5062922284,34.6735347697,100 135.5063115755,34.6743276079,100 135.5063219302,34.6747530468,100 135.5063267321,34.6749498473,100 135.5063050769,34.6749501826,100 135.5057715318,34.6749492905,100 135.5053511013,34.6749511084,100 135.5043603255,34.6749472292,100 135.5043197636,34.6749514314,100 135.5033851857,34.674944674,100 135.5033506184,34.6749443927,100 135.5023958861,34.6749436021,100 135.5023603371,34.6749434571,100 135.5023593994,34.6747290654,100 135.502354973,34.6742923834,100 135.5023541022,34.6739455829,100 135.5023476366,34.6735434011,100 135.5023382321,34.6731409269,100 135.5023386505,34.6727422962,100 135.5023256592,34.6723550193,100 135.5023249592,34.6719582149,100 135.5028310933,34.6719561923,100 135.5033197721,34.6719577585,100 135.5038404173,34.6719598755,100 135.5043069902,34.6719588129,100 135.5043142366,34.6719588423,100 135.5047917455,34.6719465534,100 135.5047995042,34.6719463027,100 135.5052810597,34.6719344511,100 135.5057852029,34.6719302951,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="7D8C444342319E262C40">
+			<name>東心斎橋２丁目</name>
+			<LookAt>
+				<longitude>135.5042827778</longitude>
+				<latitude>34.6712883333</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128016002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">016002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">東心斎橋２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">64310.594</SimpleData>
+					<SimpleData name="PERIMETER">1074.063</SimpleData>
+					<SimpleData name="H27KAxx_">2108</SimpleData>
+					<SimpleData name="H27KAxx_ID">2107</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0160</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128016002</SimpleData>
+					<SimpleData name="KEYCODE2">128016002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">東心斎橋２丁目</SimpleData>
+					<SimpleData name="KBSUM">16</SimpleData>
+					<SimpleData name="JINKO">136</SimpleData>
+					<SimpleData name="SETAI">89</SimpleData>
+					<SimpleData name="X_CODE">135.50428</SimpleData>
+					<SimpleData name="Y_CODE">34.6711</SimpleData>
+					<SimpleData name="KCODE1">0160-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5062250002,34.671088182,100 135.5062529269,34.6719220456,100 135.5057852029,34.6719302951,100 135.5052810597,34.6719344511,100 135.5047995042,34.6719463027,100 135.5047917455,34.6719465534,100 135.5043142366,34.6719588423,100 135.5043069902,34.6719588129,100 135.5038404173,34.6719598755,100 135.5033197721,34.6719577585,100 135.5028310933,34.6719561923,100 135.5023249592,34.6719582149,100 135.5023344717,34.6714143946,100 135.5023331068,34.6711143573,100 135.5023287014,34.6703598947,100 135.5027760693,34.6703542517,100 135.5028069762,34.6703533913,100 135.5032786006,34.6703402393,100 135.5037626338,34.67033291,100 135.5038134877,34.6703321304,100 135.5042907024,34.6703247722,100 135.5047738015,34.6703168717,100 135.5047876988,34.6703166467,100 135.5052529409,34.6703083906,100 135.505747801,34.6702937725,100 135.5061966183,34.6702807991,100 135.5062250002,34.671088182,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="09C5DFB635319E262C41">
+			<name>心斎橋筋１丁目</name>
+			<LookAt>
+				<longitude>135.5013258333</longitude>
+				<latitude>34.6737375</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128017001</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">017001</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">心斎橋筋１丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">62542.226</SimpleData>
+					<SimpleData name="PERIMETER">1045.018</SimpleData>
+					<SimpleData name="H27KAxx_">2713</SimpleData>
+					<SimpleData name="H27KAxx_ID">2712</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0170</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">01</SimpleData>
+					<SimpleData name="KEYCODE1">128017001</SimpleData>
+					<SimpleData name="KEYCODE2">128017001</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">心斎橋筋１丁目</SimpleData>
+					<SimpleData name="KBSUM">22</SimpleData>
+					<SimpleData name="JINKO">68</SimpleData>
+					<SimpleData name="SETAI">38</SimpleData>
+					<SimpleData name="X_CODE">135.50132</SimpleData>
+					<SimpleData name="Y_CODE">34.67333</SimpleData>
+					<SimpleData name="KCODE1">0170-01</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5008500842,34.6719345866,100 135.5008649172,34.6719345067,100 135.5013341069,34.671930648,100 135.5018289877,34.6719285836,100 135.5018295279,34.6719594343,100 135.5018591952,34.6719594147,100 135.5023249592,34.6719582149,100 135.5023256592,34.6723550193,100 135.5023386505,34.6727422962,100 135.5023382321,34.6731409269,100 135.5023476366,34.6735434011,100 135.5023541022,34.6739455829,100 135.502354973,34.6742923834,100 135.5023593994,34.6747290654,100 135.5023603371,34.6749434571,100 135.5018792004,34.6749390999,100 135.5016144854,34.6749404135,100 135.5013851074,34.6749417303,100 135.5011828466,34.6749417494,100 135.5008916755,34.6749405589,100 135.5002941732,34.6749429026,100 135.5002777184,34.6749431173,100 135.500276977,34.6747254857,100 135.5002865038,34.6743023829,100 135.5003066305,34.6735190052,100 135.5003028835,34.6731343023,100 135.5003013717,34.6727180561,100 135.5002950141,34.6723423584,100 135.5002992163,34.671932756,100 135.5008500842,34.6719345866,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="16FDB61D47319E262C41">
+			<name>心斎橋筋２丁目</name>
+			<LookAt>
+				<longitude>135.5013102778</longitude>
+				<latitude>34.670785</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>5000</range>
+			</LookAt>
+			<styleUrl>#AddressShape1036</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#AddressAttr1036">
+					<SimpleData name="KEY_CODE">27128017002</SimpleData>
+					<SimpleData name="PREF">27</SimpleData>
+					<SimpleData name="CITY">128</SimpleData>
+					<SimpleData name="S_AREA">017002</SimpleData>
+					<SimpleData name="PREF_NAME">大阪府</SimpleData>
+					<SimpleData name="CITY_NAME">中央区</SimpleData>
+					<SimpleData name="S_NAME">心斎橋筋２丁目</SimpleData>
+					<SimpleData name="KIGO_E"></SimpleData>
+					<SimpleData name="HCODE">8101</SimpleData>
+					<SimpleData name="AREA">55803.900</SimpleData>
+					<SimpleData name="PERIMETER">1017.700</SimpleData>
+					<SimpleData name="H27KAxx_">6228</SimpleData>
+					<SimpleData name="H27KAxx_ID">6227</SimpleData>
+					<SimpleData name="KEN">27</SimpleData>
+					<SimpleData name="KEN_NAME">大阪府</SimpleData>
+					<SimpleData name="SITYO_NAME"></SimpleData>
+					<SimpleData name="GST_NAME">大阪市</SimpleData>
+					<SimpleData name="CSS_NAME">中央区</SimpleData>
+					<SimpleData name="KIHON1">0170</SimpleData>
+					<SimpleData name="DUMMY1">-</SimpleData>
+					<SimpleData name="KIHON2">02</SimpleData>
+					<SimpleData name="KEYCODE1">128017002</SimpleData>
+					<SimpleData name="KEYCODE2">128017002</SimpleData>
+					<SimpleData name="AREA_MAX_F">M</SimpleData>
+					<SimpleData name="KIGO_D"></SimpleData>
+					<SimpleData name="N_KEN"></SimpleData>
+					<SimpleData name="N_CITY"></SimpleData>
+					<SimpleData name="KIGO_I"></SimpleData>
+					<SimpleData name="MOJI">心斎橋筋２丁目</SimpleData>
+					<SimpleData name="KBSUM">19</SimpleData>
+					<SimpleData name="JINKO">43</SimpleData>
+					<SimpleData name="SETAI">27</SimpleData>
+					<SimpleData name="X_CODE">135.50131</SimpleData>
+					<SimpleData name="Y_CODE">34.67055</SimpleData>
+					<SimpleData name="KCODE1">0170-02</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry id="ID">
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								135.5023254819,34.6698354613,100 135.5023260687,34.6699298394,100 135.5023263635,34.6699802688,100 135.5023287014,34.6703598947,100 135.5023331068,34.6711143573,100 135.5023344717,34.6714143946,100 135.5023249592,34.6719582149,100 135.5018591952,34.6719594147,100 135.5018295279,34.6719594343,100 135.5018289877,34.6719285836,100 135.5013341069,34.671930648,100 135.5008649172,34.6719345067,100 135.5008500842,34.6719345866,100 135.5002992163,34.671932756,100 135.5002895093,34.6715254911,100 135.5002880701,34.6711114988,100 135.5002898784,34.6707244241,100 135.5002918092,34.6703667893,100 135.5003033968,34.6699907421,100 135.5003041882,34.6699653906,100 135.5002937318,34.6698040637,100 135.5003035053,34.6693965957,100 135.5002971769,34.6690231512,100 135.5009435699,34.6690415704,100 135.5012712956,34.6690488248,100 135.5012800947,34.6694019966,100 135.5016564551,34.6694093079,100 135.5016561017,34.669440155,100 135.5023231382,34.6694494956,100 135.5023254819,34.6698354613,100 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+    </Folder>
+</Document>
+</kml>
