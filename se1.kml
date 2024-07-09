@@ -137,7 +137,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#AddressShape1036</styleUrl>
+			<styleUrl>#danger1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27102001001</SimpleData>
