@@ -14,7 +14,7 @@
 	</Style>
 	<Style id="danger1">
 	        <PolyStyle>
-	            <color>023400</color> <!-- Semi-transparent green fill -->
+	            <color>7f0000ff</color> <!-- Semi-transparent green fill -->
 	        </PolyStyle>
   	</Style>
      <Schema id="AddressAttr1036">
