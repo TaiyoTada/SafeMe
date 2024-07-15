@@ -5,11 +5,20 @@
 	<open>1</open>
 	<Style id="AddressShape1036">
 		<LineStyle>
-			<color>ff00ff00</color>
+			<color>ff0000ff</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ff00ff00</color>
+			<color>00000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
 		</PolyStyle>
 	</Style>
      <Schema id="AddressAttr1036">
