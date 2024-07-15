@@ -12,6 +12,15 @@
 			<color>00000000</color>
 		</PolyStyle>
 	</Style>
+	<Style id="style1">
+	        <LineStyle>
+	            <color>FF0000</color> 
+	            <width>2</width>
+	        </LineStyle>
+	        <PolyStyle>
+	            <color>FF0000</color> 
+	        </PolyStyle>
+	    </Style>
      <Schema id="AddressAttr1036">
         <SimpleField type="string" name="KEY_CODE"></SimpleField>
         <SimpleField type="string" name="PREF"></SimpleField>
@@ -15702,7 +15711,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#AddressShape1036</styleUrl>
+			<styleUrl>#style1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">272111350</SimpleData>
