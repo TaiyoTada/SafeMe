@@ -12,7 +12,7 @@
 			<color>00000000</color>
 		</PolyStyle>
 	</Style>
-	  <Style id="style2">
+	  <Style id="style1">
 	        <LineStyle>
 	            <color>ff00ff00</color> <!-- Green border -->
 	            <width>2</width>
@@ -141,7 +141,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style2</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27102001001</SimpleData>
@@ -203,7 +203,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style2</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27102001002</SimpleData>
@@ -265,7 +265,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style2</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">271020020</SimpleData>
@@ -327,7 +327,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style2</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27102003001</SimpleData>
