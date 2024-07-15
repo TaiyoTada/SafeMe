@@ -10,7 +10,7 @@
 </Schema>
 <Folder><name>Osaka_Prf</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>7d00ff00</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Osaka_Prf">
 		<SimpleData name="N03_001">大阪府</SimpleData>
 		<SimpleData name="N03_003">大阪市</SimpleData>
