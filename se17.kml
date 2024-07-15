@@ -14,11 +14,11 @@
 	</Style>
 	<Style id="style1">
 	        <LineStyle>
-	            <color>FF0000</color> 
+	            <color>FF2211</color> 
 	            <width>2</width>
 	        </LineStyle>
 	        <PolyStyle>
-	            <color>FF0000</color> 
+	            <color>FF2211</color> 
 	        </PolyStyle>
 	    </Style>
      <Schema id="AddressAttr1036">
