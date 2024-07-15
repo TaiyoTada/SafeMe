@@ -12,15 +12,6 @@
 			<color>ff00ff00</color>
 		</PolyStyle>
 	</Style>
-	<Style id="style1">
-	        <LineStyle>
-	            <color>FF2211</color> 
-	            <width>2</width>
-	        </LineStyle>
-	        <PolyStyle>
-	            <color>FF2211</color> 
-	        </PolyStyle>
-	    </Style>
      <Schema id="AddressAttr1036">
         <SimpleField type="string" name="KEY_CODE"></SimpleField>
         <SimpleField type="string" name="PREF"></SimpleField>
