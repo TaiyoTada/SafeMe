@@ -2892,7 +2892,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27211016001</SimpleData>
@@ -2954,7 +2954,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27211016002</SimpleData>
@@ -3698,7 +3698,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">272110230</SimpleData>
@@ -3760,7 +3760,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27211024001</SimpleData>
@@ -7542,7 +7542,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27211055001</SimpleData>
@@ -7604,7 +7604,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27211055002</SimpleData>
@@ -7666,7 +7666,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">27211055003</SimpleData>
@@ -9030,7 +9030,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#style3</styleUrl>
+			<styleUrl>#AddressShape1036</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">272110650</SimpleData>
@@ -13928,7 +13928,7 @@
 				<tilt>0</tilt>
 				<range>5000</range>
 			</LookAt>
-			<styleUrl>#AddressShape1036</styleUrl>
+			<styleUrl>#style2</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#AddressAttr1036">
 					<SimpleData name="KEY_CODE">272111180</SimpleData>
